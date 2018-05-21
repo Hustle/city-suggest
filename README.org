@@ -8,8 +8,8 @@ yarn install
 const GeoSuggest = require('geosuggest');
 
 const opts = {
-  countries: ['US', 'CA'],
-  suggestionLimit: 5
+  countryCodes: ['us'],
+  resultsLimit: 5
 };
 
 const geosuggest = new GeoSuggest(opts);
