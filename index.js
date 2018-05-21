@@ -8,7 +8,7 @@ const DEFAULT_SEARCH_THRESHOLD = 0.6;
 const DEFAULT_SEARCH_MIN_MATCH = 2;
 const DEFAULT_SEARCH_MAX_MATCH = 32;
 
-class GeoSuggest {
+class CitySuggest {
   // FIXME: typechecking
   constructor(opts) {
     this.resultsLimit = opts.resultsLimit || DEFAULT_SEARCH_LIMIT;
@@ -36,4 +36,4 @@ class GeoSuggest {
     return res.slice(0,this.resultsLimit);
   }
 };
-module.exports = GeoSuggest;
+module.exports = CitySuggest;
