@@ -1,0 +1,29 @@
+* Geosuggest
+** Installation
+#+BEGIN_SRC sh
+yarn install
+#+END_SRC
+** Usage
+#+BEGIN_SRC js
+const GeoSuggest = require('geosuggest');
+
+const opts = {
+  countries: ['US', 'CA'],
+  suggestionLimit: 5
+};
+
+const geosuggest = new GeoSuggest(opts);
+const suggestions = await geosuggest.suggest('San'); // [{ name: 'San Francisco, CA, USA', geo: { lat: 123, lng: 456}}, ...];
+#+END_SRC
+
+** Build instructions
+curl http://download.geonames.org/export/dump/cities1000.zip > /tmp/cities1000.zip && unzip /tmp/cities1000.zip -d /tmp/
+
+# USA
+cut -d "<TAB CHARACTER>" -f 2,5,6,7,8,9,15,18 /tmp/cities1000.txt | awk -F'<TAB CHARACTER>' '{ if ($6 == "US") { print }}' > data/cities/us.txt
+# Canada
+cut -d "<TAB CHARACTER>" -f 2,5,6,7,8,9,15,18 /tmp/cities1000.txt | awk -F'<TAB CHARACTER>' '{ if ($6 == "CA") { print }}' > data/cities/ca.txt
+#+END_SRC
+** Notes on geonames data
+[[http://download.geonames.org/export/dump/readme.txt][Column info]]
+[[http://www.geonames.org/export/codes.html]["Feature class/code"]] can be filtered on to give us just the data we need
