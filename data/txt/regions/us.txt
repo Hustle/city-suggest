@@ -1,0 +1,51 @@
+US.AR	Arkansas
+US.DC	Washington, D.C.
+US.DE	Delaware
+US.FL	Florida
+US.GA	Georgia
+US.KS	Kansas
+US.LA	Louisiana
+US.MD	Maryland
+US.MO	Missouri
+US.MS	Mississippi
+US.NC	North Carolina
+US.OK	Oklahoma
+US.SC	South Carolina
+US.TN	Tennessee
+US.TX	Texas
+US.WV	West Virginia
+US.AL	Alabama
+US.CT	Connecticut
+US.IA	Iowa
+US.IL	Illinois
+US.IN	Indiana
+US.ME	Maine
+US.MI	Michigan
+US.MN	Minnesota
+US.NE	Nebraska
+US.NH	New Hampshire
+US.NJ	New Jersey
+US.NY	New York
+US.OH	Ohio
+US.RI	Rhode Island
+US.VT	Vermont
+US.WI	Wisconsin
+US.CA	California
+US.CO	Colorado
+US.NM	New Mexico
+US.NV	Nevada
+US.UT	Utah
+US.AZ	Arizona
+US.ID	Idaho
+US.MT	Montana
+US.ND	North Dakota
+US.OR	Oregon
+US.SD	South Dakota
+US.WA	Washington
+US.WY	Wyoming
+US.HI	Hawaii
+US.AK	Alaska
+US.KY	Kentucky
+US.MA	Massachusetts
+US.PA	Pennsylvania
+US.VA	Virginia

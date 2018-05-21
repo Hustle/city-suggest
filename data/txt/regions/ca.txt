@@ -1,0 +1,13 @@
+CA.01	Alberta
+CA.02	British Columbia
+CA.03	Manitoba
+CA.04	New Brunswick
+CA.13	Northwest Territories
+CA.07	Nova Scotia
+CA.14	Nunavut
+CA.08	Ontario
+CA.09	Prince Edward Island
+CA.10	Quebec
+CA.11	Saskatchewan
+CA.12	Yukon
+CA.05	Newfoundland and Labrador
