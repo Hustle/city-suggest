@@ -1,0 +1,11 @@
+{
+  "name": "geosuggest",
+  "version": "0.1.0",
+  "description": "Simple search for geonames.org data dumps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hustle, Inc",
+  "license": "ISC"
+}
