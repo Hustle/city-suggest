@@ -13,10 +13,10 @@ function convertCSVToJSON(file) {
     .fromFile(path.join(REGIONS_TXT_DIR, file))
     .then((regions) => {
       const rootName = file.split('.txt')[0];
-      const simpleRegions = regions.map((region) => {
-        // remove whatever country code is prefixed to region
-        region.code = region.code.replace(`${rootName.toUpperCase()}.`, '');
-        return region
+      const simpleRegions = {};
+      regions.forEach((region) => {
+        const code = region.code.replace(`${rootName.toUpperCase()}.`, '');
+        simpleRegions[code] = region.name;
       });
       const fileName = rootName + '.json';
       fs.writeFileSync(path.join(REGIONS_JSON_DIR, fileName), JSON.stringify(simpleRegions));
