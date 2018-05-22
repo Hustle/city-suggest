@@ -1,12 +1,16 @@
 * CitySuggest 🌇
 Simple city search for [[http://www.geonames.org/][geonames.org]] data dumps
 
-** NOTE
-Data used in this lib is provided via the [[http://creativecommons.org/licenses/by/3.0/][Creative Commons Attribution 3.0 License]] by the good folks at [[http://www.geonames.org/][geonames.org]]
-
-*NOTE*: At the time of writing, only the country codes for the United States and Canada are supported.
+** Notes
+At the time of writing, only the country codes for the United States
+and Canada are supported. Data used in this lib is provided via the
+[[http://creativecommons.org/licenses/by/3.0/][Creative Commons Attribution 3.0 License]] by [[http://www.geonames.org/][geonames.org]]
 
 ** Basic Usage
+
+*NOTE*: City name dependencies are lazy-loaded, so you should
+initialize instances as early as you can.
+
 #+BEGIN_SRC js
 const CitySuggest = require('city-suggest');
 
