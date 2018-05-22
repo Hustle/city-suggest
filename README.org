@@ -1,9 +1,8 @@
-* CitySuggest
-** Installation
-#+BEGIN_SRC sh
-yarn install
-#+END_SRC
-** Usage
+* CitySuggest 🌇
+Data used in this lib is provided via the [[http://creativecommons.org/licenses/by/3.0/][Creative Commons Attribution 3.0 License]] by the good folks at [[http://www.geonames.org/][geonames.org]]
+NOTE: At the time of writing, only the country codes for the United States and Canada are supported.
+
+** Basic Usage
 #+BEGIN_SRC js
 const CitySuggest = require('city-suggest');
 
@@ -14,6 +13,11 @@ const opts = {
 
 const citysuggest = new CitySuggest(opts);
 const suggestions = citysuggest.suggest('San'); // [{ name: 'San Francisco, CA, USA', latitude: 123, longitude: 456}}, ...];
+#+END_SRC
+
+** Installation
+#+BEGIN_SRC sh
+yarn install
 #+END_SRC
 
 ** Build instructions
