@@ -13,16 +13,16 @@ const opts = {
 };
 
 const citysuggest = new CitySuggest(opts);
-const suggestions = await citysuggest.suggest('San'); // [{ name: 'San Francisco, CA, USA', latitude: 123, longitude: 456}}, ...];
+const suggestions = citysuggest.suggest('San'); // [{ name: 'San Francisco, CA, USA', latitude: 123, longitude: 456}}, ...];
 #+END_SRC
 
 ** Build instructions
 curl http://download.geonames.org/export/dump/cities1000.zip > /tmp/cities1000.zip && unzip /tmp/cities1000.zip -d /tmp/
 
 # USA
-cut -d "<TAB CHARACTER>" -f 2,5,6,7,8,9,15,18 /tmp/cities1000.txt | awk -F'<TAB CHARACTER>' '{ if ($6 == "US") { print }}' > data/cities/us.txt
+cut -d\t -f 2,5,6,7,8,9,15,18 /tmp/cities1000.txt | awk -F\t '{ if ($6 == "US") { print }}' > data/cities/us.txt
 # Canada
-cut -d "<TAB CHARACTER>" -f 2,5,6,7,8,9,15,18 /tmp/cities1000.txt | awk -F'<TAB CHARACTER>' '{ if ($6 == "CA") { print }}' > data/cities/ca.txt
+cut -d\t -f 2,5,6,7,8,9,15,18 /tmp/cities1000.txt | awk -F\t '{ if ($6 == "CA") { print }}' > data/cities/ca.txt
 #+END_SRC
 ** Notes on geonames data
 [[http://download.geonames.org/export/dump/readme.txt][Column info]]
