@@ -1,4 +1,4 @@
-const CitySuggest = require('../../index');
+const CitySuggest = require('../../src/index');
 const CA_CITY_NAMES = require('../data/canCities');
 
 describe('CitySuggest', () => {

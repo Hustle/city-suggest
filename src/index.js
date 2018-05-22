@@ -25,7 +25,7 @@ class CitySuggest {
     let dataSet = [];
 
     opts.countryCodes.forEach((countryCode) => {
-      dataSet = dataSet.concat(require(path.join(__dirname,'data','json','cities',countryCode.toLowerCase())));
+      dataSet = dataSet.concat(require(path.join(__dirname,'data','cities',countryCode.toLowerCase())));
     })
     this.client = new Fuse(dataSet, searchOpts);
     this.suggest = this.suggest.bind(this);

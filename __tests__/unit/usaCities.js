@@ -1,4 +1,4 @@
-const CitySuggest = require('../../index');
+const CitySuggest = require('../../src/index');
 const US_CITY_NAMES = require('../data/usaCities'); // https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population
 
 describe('CitySuggest', () => {
