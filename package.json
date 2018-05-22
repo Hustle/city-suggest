@@ -9,6 +9,10 @@
   },
   "author": "Hustle, Inc",
   "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/HustleInc/city-suggest"
+  },
   "jest": {
     "coverageThreshold": {
       "global": {
