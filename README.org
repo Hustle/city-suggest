@@ -1,6 +1,10 @@
 * CitySuggest 🌇
+Simple city search for [[http://www.geonames.org/][geonames.org]] data dumps
+
+** NOTE
 Data used in this lib is provided via the [[http://creativecommons.org/licenses/by/3.0/][Creative Commons Attribution 3.0 License]] by the good folks at [[http://www.geonames.org/][geonames.org]]
-NOTE: At the time of writing, only the country codes for the United States and Canada are supported.
+
+**NOTE**: At the time of writing, only the country codes for the United States and Canada are supported.
 
 ** Basic Usage
 #+BEGIN_SRC js
