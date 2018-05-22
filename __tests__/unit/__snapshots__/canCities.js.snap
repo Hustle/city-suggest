@@ -1,0 +1,4033 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CitySuggest when searching for CA city Abbotsford it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Stratford, Ontario, CAN",
+    "lat": "43.36679",
+    "lng": "-80.94972",
+  },
+  Object {
+    "displayName": "Bedford, Quebec, CAN",
+    "lat": "45.11678",
+    "lng": "-72.98244",
+  },
+  Object {
+    "displayName": "Botwood, Newfoundland and Labrador, CAN",
+    "lat": "49.14994",
+    "lng": "-55.34819",
+  },
+  Object {
+    "displayName": "Oxford, Nova Scotia, CAN",
+    "lat": "45.73345",
+    "lng": "-63.86542",
+  },
+  Object {
+    "displayName": "Thetford-Mines, Quebec, CAN",
+    "lat": "46.09371",
+    "lng": "-71.30539",
+  },
+  Object {
+    "displayName": "North Battleford, Saskatchewan, CAN",
+    "lat": "52.77972",
+    "lng": "-108.2967",
+  },
+  Object {
+    "displayName": "Asbestos, Quebec, CAN",
+    "lat": "45.76678",
+    "lng": "-71.9324",
+  },
+  Object {
+    "displayName": "Elkford, British Columbia, CAN",
+    "lat": "50.05007",
+    "lng": "-114.8854",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Amos it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Amos, Quebec, CAN",
+    "lat": "48.56688",
+    "lng": "-78.11624",
+  },
+  Object {
+    "displayName": "Kamsack, Saskatchewan, CAN",
+    "lat": "51.56668",
+    "lng": "-101.90093",
+  },
+  Object {
+    "displayName": "Hampstead, Quebec, CAN",
+    "lat": "45.48064",
+    "lng": "-73.66307",
+  },
+  Object {
+    "displayName": "Sicamous, British Columbia, CAN",
+    "lat": "50.83312",
+    "lng": "-118.98565",
+  },
+  Object {
+    "displayName": "Pohénégamook, Quebec, CAN",
+    "lat": "47.46315",
+    "lng": "-69.22666",
+  },
+  Object {
+    "displayName": "Black Diamond, CAN",
+    "lat": "50.70011",
+    "lng": "-114.2353",
+  },
+  Object {
+    "displayName": "Morden, Manitoba, CAN",
+    "lat": "49.1919",
+    "lng": "-98.10136",
+  },
+  Object {
+    "displayName": "Brossard, Quebec, CAN",
+    "lat": "45.45008",
+    "lng": "-73.46583",
+  },
+  Object {
+    "displayName": "Adstock, Quebec, CAN",
+    "lat": "46.05007",
+    "lng": "-71.08235",
+  },
+  Object {
+    "displayName": "Rosthern, Saskatchewan, CAN",
+    "lat": "52.66679",
+    "lng": "-106.33446",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Baie Verte it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Invermere, British Columbia, CAN",
+    "lat": "50.51666",
+    "lng": "-116.03538",
+  },
+  Object {
+    "displayName": "Napierville, Quebec, CAN",
+    "lat": "45.18648",
+    "lng": "-73.40468",
+  },
+  Object {
+    "displayName": "Barrhead, CAN",
+    "lat": "54.13345",
+    "lng": "-114.40211",
+  },
+  Object {
+    "displayName": "Fairview, CAN",
+    "lat": "56.06675",
+    "lng": "-118.38606",
+  },
+  Object {
+    "displayName": "Airdrie, CAN",
+    "lat": "51.30011",
+    "lng": "-114.03528",
+  },
+  Object {
+    "displayName": "Barraute, Quebec, CAN",
+    "lat": "48.43349",
+    "lng": "-77.63279",
+  },
+  Object {
+    "displayName": "Sainte-Adèle, Quebec, CAN",
+    "lat": "45.95008",
+    "lng": "-74.13251",
+  },
+  Object {
+    "displayName": "Sainte-Julie, Quebec, CAN",
+    "lat": "45.58338",
+    "lng": "-73.33246",
+  },
+  Object {
+    "displayName": "Sainte-Julienne, Quebec, CAN",
+    "lat": "45.96677",
+    "lng": "-73.71587",
+  },
+  Object {
+    "displayName": "Saint-Tite, Quebec, CAN",
+    "lat": "46.73336",
+    "lng": "-72.56581",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Baie-Comeau it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Saint-Côme--Linière, Quebec, CAN",
+    "lat": "46.06677",
+    "lng": "-70.51573",
+  },
+  Object {
+    "displayName": "Sacré-Coeur, Quebec, CAN",
+    "lat": "48.2297",
+    "lng": "-69.80061",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Baie-Saint-Paul it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Baie-Saint-Paul, Quebec, CAN",
+    "lat": "47.44109",
+    "lng": "-70.49858",
+  },
+  Object {
+    "displayName": "Havre-Saint-Pierre, Quebec, CAN",
+    "lat": "50.24342",
+    "lng": "-63.60264",
+  },
+  Object {
+    "displayName": "Saint-Pascal, Quebec, CAN",
+    "lat": "47.51813",
+    "lng": "-69.80301",
+  },
+  Object {
+    "displayName": "Saint-Augustin-de-Desmaures, Quebec, CAN",
+    "lat": "46.74064",
+    "lng": "-71.45131",
+  },
+  Object {
+    "displayName": "Saint-Sauveur, Quebec, CAN",
+    "lat": "45.88686",
+    "lng": "-74.17943",
+  },
+  Object {
+    "displayName": "Saint-Philippe-de-La Prairie, Quebec, CAN",
+    "lat": "45.35723",
+    "lng": "-73.47706",
+  },
+  Object {
+    "displayName": "Baie-Comeau, Quebec, CAN",
+    "lat": "49.21679",
+    "lng": "-68.14894",
+  },
+  Object {
+    "displayName": "Saint-Basile-le-Grand, Quebec, CAN",
+    "lat": "45.53338",
+    "lng": "-73.28246",
+  },
+  Object {
+    "displayName": "Saint-Bruno, Quebec, CAN",
+    "lat": "48.46679",
+    "lng": "-71.6491",
+  },
+  Object {
+    "displayName": "Saint-Pie-V, Quebec, CAN",
+    "lat": "46.00351",
+    "lng": "-72.74689",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Belleterre it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Labelle, Quebec, CAN",
+    "lat": "46.28339",
+    "lng": "-74.73255",
+  },
+  Object {
+    "displayName": "Campbellton, New Brunswick, CAN",
+    "lat": "48.00751",
+    "lng": "-66.67272",
+  },
+  Object {
+    "displayName": "Bluewater, Ontario, CAN",
+    "lat": "43.46679",
+    "lng": "-81.59977",
+  },
+  Object {
+    "displayName": "Esterhazy, Saskatchewan, CAN",
+    "lat": "50.65001",
+    "lng": "-102.08426",
+  },
+  Object {
+    "displayName": "Joliette, Quebec, CAN",
+    "lat": "46.0164",
+    "lng": "-73.4236",
+  },
+  Object {
+    "displayName": "Beloeil, Quebec, CAN",
+    "lat": "45.56839",
+    "lng": "-73.20568",
+  },
+  Object {
+    "displayName": "L'Île-Perrot, Quebec, CAN",
+    "lat": "45.38338",
+    "lng": "-73.9492",
+  },
+  Object {
+    "displayName": "Berthierville, Quebec, CAN",
+    "lat": "46.08336",
+    "lng": "-73.18245",
+  },
+  Object {
+    "displayName": "Pierreville, Quebec, CAN",
+    "lat": "46.07034",
+    "lng": "-72.81125",
+  },
+  Object {
+    "displayName": "Salaberry-de-Valleyfield, Quebec, CAN",
+    "lat": "45.25008",
+    "lng": "-74.13253",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Blind River it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "High River, CAN",
+    "lat": "50.58341",
+    "lng": "-113.86867",
+  },
+  Object {
+    "displayName": "Swan River, Manitoba, CAN",
+    "lat": "52.1058",
+    "lng": "-101.26759",
+  },
+  Object {
+    "displayName": "Fall River, Nova Scotia, CAN",
+    "lat": "44.81685",
+    "lng": "-63.6154",
+  },
+  Object {
+    "displayName": "Spirit River, CAN",
+    "lat": "55.78327",
+    "lng": "-118.83607",
+  },
+  Object {
+    "displayName": "Deep River, Ontario, CAN",
+    "lat": "46.10012",
+    "lng": "-77.49949",
+  },
+  Object {
+    "displayName": "Hay River, Northwest Territories, CAN",
+    "lat": "60.81555",
+    "lng": "-115.79993",
+  },
+  Object {
+    "displayName": "South River, Ontario, CAN",
+    "lat": "45.8334",
+    "lng": "-79.38293",
+  },
+  Object {
+    "displayName": "Niverville, Manitoba, CAN",
+    "lat": "49.60559",
+    "lng": "-97.04234",
+  },
+  Object {
+    "displayName": "Bay Roberts, Newfoundland and Labrador, CAN",
+    "lat": "47.59989",
+    "lng": "-53.26478",
+  },
+  Object {
+    "displayName": "Oliver, British Columbia, CAN",
+    "lat": "49.18306",
+    "lng": "-119.5524",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Bracebridge it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Peace River, CAN",
+    "lat": "56.23715",
+    "lng": "-117.29176",
+  },
+  Object {
+    "displayName": "Bridgewater, Nova Scotia, CAN",
+    "lat": "44.37856",
+    "lng": "-64.51882",
+  },
+  Object {
+    "displayName": "Beaverlodge, CAN",
+    "lat": "55.21664",
+    "lng": "-119.43605",
+  },
+  Object {
+    "displayName": "Uxbridge, Ontario, CAN",
+    "lat": "44.10012",
+    "lng": "-79.11628",
+  },
+  Object {
+    "displayName": "Beauceville, Quebec, CAN",
+    "lat": "46.21785",
+    "lng": "-70.77873",
+  },
+  Object {
+    "displayName": "Lac-Brome, Quebec, CAN",
+    "lat": "45.21678",
+    "lng": "-72.51581",
+  },
+  Object {
+    "displayName": "Barrie, Ontario, CAN",
+    "lat": "44.40011",
+    "lng": "-79.66634",
+  },
+  Object {
+    "displayName": "Rayside-Balfour, Ontario, CAN",
+    "lat": "46.60873",
+    "lng": "-81.20763",
+  },
+  Object {
+    "displayName": "Brockville, Ontario, CAN",
+    "lat": "44.59132",
+    "lng": "-75.68705",
+  },
+  Object {
+    "displayName": "Breakeyville, Quebec, CAN",
+    "lat": "46.68037",
+    "lng": "-71.22327",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Brampton it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "L'Assomption, Quebec, CAN",
+    "lat": "45.82318",
+    "lng": "-73.4294",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Brant it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Brant, Ontario, CAN",
+    "lat": "43.1334",
+    "lng": "-80.34967",
+  },
+  Object {
+    "displayName": "Brantford, Ontario, CAN",
+    "lat": "43.1334",
+    "lng": "-80.26636",
+  },
+  Object {
+    "displayName": "Brandon, Manitoba, CAN",
+    "lat": "49.84692",
+    "lng": "-99.95306",
+  },
+  Object {
+    "displayName": "Saint-Germain-de-Grantham, Quebec, CAN",
+    "lat": "45.83337",
+    "lng": "-72.56582",
+  },
+  Object {
+    "displayName": "Bracebridge, Ontario, CAN",
+    "lat": "45.03341",
+    "lng": "-79.31633",
+  },
+  Object {
+    "displayName": "Grande Cache, CAN",
+    "lat": "53.88335",
+    "lng": "-119.13585",
+  },
+  Object {
+    "displayName": "Banff, CAN",
+    "lat": "51.17622",
+    "lng": "-115.56982",
+  },
+  Object {
+    "displayName": "Rankin Inlet, Nunavut, CAN",
+    "lat": "62.80906",
+    "lng": "-92.08534",
+  },
+  Object {
+    "displayName": "Orangeville, Ontario, CAN",
+    "lat": "43.9168",
+    "lng": "-80.09967",
+  },
+  Object {
+    "displayName": "Crabtree, Quebec, CAN",
+    "lat": "45.96677",
+    "lng": "-73.46586",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Bécancour it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Bécancour, Quebec, CAN",
+    "lat": "46.33336",
+    "lng": "-72.43241",
+  },
+  Object {
+    "displayName": "Bancroft, Ontario, CAN",
+    "lat": "45.05752",
+    "lng": "-77.85702",
+  },
+  Object {
+    "displayName": "Cacouna, Quebec, CAN",
+    "lat": "47.91657",
+    "lng": "-69.50054",
+  },
+  Object {
+    "displayName": "Vancouver, British Columbia, CAN",
+    "lat": "49.24966",
+    "lng": "-123.11934",
+  },
+  Object {
+    "displayName": "Pincourt, Quebec, CAN",
+    "lat": "45.38338",
+    "lng": "-73.9825",
+  },
+  Object {
+    "displayName": "Canora, Saskatchewan, CAN",
+    "lat": "51.63328",
+    "lng": "-102.43425",
+  },
+  Object {
+    "displayName": "Concord, Ontario, CAN",
+    "lat": "43.80011",
+    "lng": "-79.48291",
+  },
+  Object {
+    "displayName": "West Vancouver, British Columbia, CAN",
+    "lat": "49.36672",
+    "lng": "-123.16652",
+  },
+  Object {
+    "displayName": "North Vancouver, British Columbia, CAN",
+    "lat": "49.31636",
+    "lng": "-123.06934",
+  },
+  Object {
+    "displayName": "Cobourg, Ontario, CAN",
+    "lat": "43.95977",
+    "lng": "-78.16515",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Caledon it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Carleton-sur-Mer, Quebec, CAN",
+    "lat": "48.10749",
+    "lng": "-66.128",
+  },
+  Object {
+    "displayName": "Carbonear, Newfoundland and Labrador, CAN",
+    "lat": "47.73319",
+    "lng": "-53.21478",
+  },
+  Object {
+    "displayName": "Rawdon, Quebec, CAN",
+    "lat": "46.05007",
+    "lng": "-73.71587",
+  },
+  Object {
+    "displayName": "Middleton, Nova Scotia, CAN",
+    "lat": "44.94284",
+    "lng": "-65.07022",
+  },
+  Object {
+    "displayName": "Kincardine, Ontario, CAN",
+    "lat": "44.18339",
+    "lng": "-81.63307",
+  },
+  Object {
+    "displayName": "Thessalon, Ontario, CAN",
+    "lat": "46.25006",
+    "lng": "-83.5666",
+  },
+  Object {
+    "displayName": "Fort Macleod, CAN",
+    "lat": "49.71671",
+    "lng": "-113.41857",
+  },
+  Object {
+    "displayName": "London, Ontario, CAN",
+    "lat": "42.98339",
+    "lng": "-81.23304",
+  },
+  Object {
+    "displayName": "Alberton, Prince Edward Island, CAN",
+    "lat": "46.81685",
+    "lng": "-64.06542",
+  },
+  Object {
+    "displayName": "Cardston, CAN",
+    "lat": "49.19998",
+    "lng": "-113.3019",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Calgary it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Calgary, CAN",
+    "lat": "51.05011",
+    "lng": "-114.08529",
+  },
+  Object {
+    "displayName": "Calmar, CAN",
+    "lat": "53.26683",
+    "lng": "-113.81874",
+  },
+  Object {
+    "displayName": "Clarence-Rockland, Ontario, CAN",
+    "lat": "45.5501",
+    "lng": "-75.29101",
+  },
+  Object {
+    "displayName": "Clarenville-Shoal Harbour, Newfoundland and Labrador, CAN",
+    "lat": "48.1805",
+    "lng": "-53.96982",
+  },
+  Object {
+    "displayName": "Claresholm, CAN",
+    "lat": "50.03332",
+    "lng": "-113.58524",
+  },
+  Object {
+    "displayName": "Malartic, Quebec, CAN",
+    "lat": "48.13348",
+    "lng": "-78.13283",
+  },
+  Object {
+    "displayName": "Albanel, Quebec, CAN",
+    "lat": "48.88324",
+    "lng": "-72.44867",
+  },
+  Object {
+    "displayName": "Alma, Quebec, CAN",
+    "lat": "48.55009",
+    "lng": "-71.6491",
+  },
+  Object {
+    "displayName": "Cambridge, Ontario, CAN",
+    "lat": "43.3601",
+    "lng": "-80.31269",
+  },
+  Object {
+    "displayName": "Camlachie, Ontario, CAN",
+    "lat": "43.03596",
+    "lng": "-82.1616",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Chandler it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Hanover, Ontario, CAN",
+    "lat": "44.15009",
+    "lng": "-81.03303",
+  },
+  Object {
+    "displayName": "Thunder Bay, Ontario, CAN",
+    "lat": "48.38202",
+    "lng": "-89.25018",
+  },
+  Object {
+    "displayName": "Kitchener, Ontario, CAN",
+    "lat": "43.42537",
+    "lng": "-80.5112",
+  },
+  Object {
+    "displayName": "Chambord, Quebec, CAN",
+    "lat": "48.43339",
+    "lng": "-72.06583",
+  },
+  Object {
+    "displayName": "Chertsey, Quebec, CAN",
+    "lat": "46.07109",
+    "lng": "-73.89095",
+  },
+  Object {
+    "displayName": "Chester, Nova Scotia, CAN",
+    "lat": "44.54225",
+    "lng": "-64.23891",
+  },
+  Object {
+    "displayName": "Enderby, British Columbia, CAN",
+    "lat": "50.5498",
+    "lng": "-119.15234",
+  },
+  Object {
+    "displayName": "Chambly, Quebec, CAN",
+    "lat": "45.45008",
+    "lng": "-73.28246",
+  },
+  Object {
+    "displayName": "Kindersley, Saskatchewan, CAN",
+    "lat": "51.46681",
+    "lng": "-109.16818",
+  },
+  Object {
+    "displayName": "Ancaster, Ontario, CAN",
+    "lat": "43.21806",
+    "lng": "-79.98716",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Chatham-Kent it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Chatham, Ontario, CAN",
+    "lat": "42.41224",
+    "lng": "-82.18494",
+  },
+  Object {
+    "displayName": "St. Catharines, Ontario, CAN",
+    "lat": "43.17126",
+    "lng": "-79.24267",
+  },
+  Object {
+    "displayName": "Channel-Port aux Basques, Newfoundland and Labrador, CAN",
+    "lat": "47.57286",
+    "lng": "-59.13808",
+  },
+  Object {
+    "displayName": "Charlemagne, Quebec, CAN",
+    "lat": "45.71678",
+    "lng": "-73.48247",
+  },
+  Object {
+    "displayName": "Charlottetown, Prince Edward Island, CAN",
+    "lat": "46.23899",
+    "lng": "-63.13414",
+  },
+  Object {
+    "displayName": "Catalina, Newfoundland and Labrador, CAN",
+    "lat": "48.51659",
+    "lng": "-53.08135",
+  },
+  Object {
+    "displayName": "Château-Richer, Quebec, CAN",
+    "lat": "46.96031",
+    "lng": "-71.03219",
+  },
+  Object {
+    "displayName": "Cap-Santé, Quebec, CAN",
+    "lat": "46.67159",
+    "lng": "-71.78812",
+  },
+  Object {
+    "displayName": "Strathmore, CAN",
+    "lat": "51.05011",
+    "lng": "-113.38523",
+  },
+  Object {
+    "displayName": "Gjoa Haven, Nunavut, CAN",
+    "lat": "68.62602",
+    "lng": "-95.87836",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Chibougamau it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Chibougamau, Quebec, CAN",
+    "lat": "49.91684",
+    "lng": "-74.36586",
+  },
+  Object {
+    "displayName": "Chute-aux-Outardes, Quebec, CAN",
+    "lat": "49.11679",
+    "lng": "-68.39896",
+  },
+  Object {
+    "displayName": "Richibucto, New Brunswick, CAN",
+    "lat": "46.68073",
+    "lng": "-64.88044",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Clarence-Rockland it matches the snapshot 1`] = `Array []`;
+
+exports[`CitySuggest when searching for CA city Cochrane it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Cochrane, CAN",
+    "lat": "51.18341",
+    "lng": "-114.46871",
+  },
+  Object {
+    "displayName": "Corner Brook, Newfoundland and Labrador, CAN",
+    "lat": "48.95001",
+    "lng": "-57.95202",
+  },
+  Object {
+    "displayName": "Cache Creek, British Columbia, CAN",
+    "lat": "50.81011",
+    "lng": "-121.3246",
+  },
+  Object {
+    "displayName": "Chandler, Quebec, CAN",
+    "lat": "48.34935",
+    "lng": "-64.67926",
+  },
+  Object {
+    "displayName": "Contrecoeur, Quebec, CAN",
+    "lat": "45.85008",
+    "lng": "-73.23245",
+  },
+  Object {
+    "displayName": "Coaldale, CAN",
+    "lat": "49.7167",
+    "lng": "-112.61854",
+  },
+  Object {
+    "displayName": "Cornwall, Prince Edward Island, CAN",
+    "lat": "46.22652",
+    "lng": "-63.21809",
+  },
+  Object {
+    "displayName": "Cornwall, Ontario, CAN",
+    "lat": "45.01809",
+    "lng": "-74.72815",
+  },
+  Object {
+    "displayName": "Cranbrook, British Columbia, CAN",
+    "lat": "49.49991",
+    "lng": "-115.76879",
+  },
+  Object {
+    "displayName": "Chase, British Columbia, CAN",
+    "lat": "50.8165",
+    "lng": "-119.68571",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Cookshire-Eaton it matches the snapshot 1`] = `Array []`;
+
+exports[`CitySuggest when searching for CA city Dolbeau-Mistassini it matches the snapshot 1`] = `Array []`;
+
+exports[`CitySuggest when searching for CA city Dégelis it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Delson, Quebec, CAN",
+    "lat": "45.36678",
+    "lng": "-73.54917",
+  },
+  Object {
+    "displayName": "Sainte-Élisabeth, Quebec, CAN",
+    "lat": "46.09502",
+    "lng": "-73.35176",
+  },
+  Object {
+    "displayName": "Saint-Denis-sur-Richelieu, Quebec, CAN",
+    "lat": "45.78338",
+    "lng": "-73.14915",
+  },
+  Object {
+    "displayName": "Lebel-sur-Quévillon, Quebec, CAN",
+    "lat": "49.05018",
+    "lng": "-76.98273",
+  },
+  Object {
+    "displayName": "Fogo Island, Newfoundland and Labrador, CAN",
+    "lat": "49.71649",
+    "lng": "-54.16981",
+  },
+  Object {
+    "displayName": "Delta, British Columbia, CAN",
+    "lat": "49.14399",
+    "lng": "-122.9068",
+  },
+  Object {
+    "displayName": "Daveluyville, Quebec, CAN",
+    "lat": "46.20006",
+    "lng": "-72.13239",
+  },
+  Object {
+    "displayName": "Ingersoll, Ontario, CAN",
+    "lat": "43.03339",
+    "lng": "-80.88302",
+  },
+  Object {
+    "displayName": "Bells Corners, Ontario, CAN",
+    "lat": "45.31588",
+    "lng": "-75.83012",
+  },
+  Object {
+    "displayName": "Lewisporte, Newfoundland and Labrador, CAN",
+    "lat": "49.24993",
+    "lng": "-55.04816",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Edmonton it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Edmonton, CAN",
+    "lat": "53.55014",
+    "lng": "-113.46871",
+  },
+  Object {
+    "displayName": "Piedmont, Quebec, CAN",
+    "lat": "45.90008",
+    "lng": "-74.13251",
+  },
+  Object {
+    "displayName": "Edmundston, New Brunswick, CAN",
+    "lat": "47.3737",
+    "lng": "-68.32512",
+  },
+  Object {
+    "displayName": "Moncton, New Brunswick, CAN",
+    "lat": "46.09454",
+    "lng": "-64.7965",
+  },
+  Object {
+    "displayName": "Fermont, Quebec, CAN",
+    "lat": "52.78345",
+    "lng": "-67.08204",
+  },
+  Object {
+    "displayName": "Deseronto, Ontario, CAN",
+    "lat": "44.20012",
+    "lng": "-77.04944",
+  },
+  Object {
+    "displayName": "Rougemont, Quebec, CAN",
+    "lat": "45.43338",
+    "lng": "-73.04914",
+  },
+  Object {
+    "displayName": "Edson, CAN",
+    "lat": "53.58345",
+    "lng": "-116.43559",
+  },
+  Object {
+    "displayName": "Mont-Joli, Quebec, CAN",
+    "lat": "48.58388",
+    "lng": "-68.19214",
+  },
+  Object {
+    "displayName": "Donnacona, Quebec, CAN",
+    "lat": "46.68042",
+    "lng": "-71.7239",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Elliot Lake it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Little Current, Ontario, CAN",
+    "lat": "45.97927",
+    "lng": "-81.9248",
+  },
+  Object {
+    "displayName": "Maliotenam, Quebec, CAN",
+    "lat": "50.21119",
+    "lng": "-66.18164",
+  },
+  Object {
+    "displayName": "Belleville, Ontario, CAN",
+    "lat": "44.16682",
+    "lng": "-77.38277",
+  },
+  Object {
+    "displayName": "Melita, Manitoba, CAN",
+    "lat": "49.26811",
+    "lng": "-100.99669",
+  },
+  Object {
+    "displayName": "Melville, Saskatchewan, CAN",
+    "lat": "50.91671",
+    "lng": "-102.80099",
+  },
+  Object {
+    "displayName": "West Kelowna, British Columbia, CAN",
+    "lat": "49.8625",
+    "lng": "-119.58333",
+  },
+  Object {
+    "displayName": "Willowdale, Ontario, CAN",
+    "lat": "43.76672",
+    "lng": "-79.39909",
+  },
+  Object {
+    "displayName": "Yellowknife, Northwest Territories, CAN",
+    "lat": "62.45411",
+    "lng": "-114.37248",
+  },
+  Object {
+    "displayName": "Revelstoke, British Columbia, CAN",
+    "lat": "50.99712",
+    "lng": "-118.1953",
+  },
+  Object {
+    "displayName": "Powell River, British Columbia, CAN",
+    "lat": "49.83278",
+    "lng": "-124.52368",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Erin it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Pickering, Ontario, CAN",
+    "lat": "43.90012",
+    "lng": "-79.13289",
+  },
+  Object {
+    "displayName": "Morin-Heights, Quebec, CAN",
+    "lat": "45.90009",
+    "lng": "-74.24922",
+  },
+  Object {
+    "displayName": "Steinbach, Manitoba, CAN",
+    "lat": "49.52579",
+    "lng": "-96.68451",
+  },
+  Object {
+    "displayName": "Neebing, Ontario, CAN",
+    "lat": "48.1668",
+    "lng": "-89.41683",
+  },
+  Object {
+    "displayName": "Goderich, Ontario, CAN",
+    "lat": "43.74171",
+    "lng": "-81.71339",
+  },
+  Object {
+    "displayName": "Indian Head, Saskatchewan, CAN",
+    "lat": "50.53336",
+    "lng": "-103.66775",
+  },
+  Object {
+    "displayName": "Inuvik, Northwest Territories, CAN",
+    "lat": "68.34986",
+    "lng": "-133.72181",
+  },
+  Object {
+    "displayName": "Franklin, Quebec, CAN",
+    "lat": "45.03338",
+    "lng": "-73.91591",
+  },
+  Object {
+    "displayName": "Wainwright, CAN",
+    "lat": "52.83482",
+    "lng": "-110.85342",
+  },
+  Object {
+    "displayName": "Flin Flon, Manitoba, CAN",
+    "lat": "54.76703",
+    "lng": "-101.87433",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Essex it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Estevan, Saskatchewan, CAN",
+    "lat": "49.13337",
+    "lng": "-102.98422",
+  },
+  Object {
+    "displayName": "Boissevain, Manitoba, CAN",
+    "lat": "49.23062",
+    "lng": "-100.05586",
+  },
+  Object {
+    "displayName": "Quesnel, British Columbia, CAN",
+    "lat": "52.97842",
+    "lng": "-122.4931",
+  },
+  Object {
+    "displayName": "Espanola, Ontario, CAN",
+    "lat": "46.25837",
+    "lng": "-81.76649",
+  },
+  Object {
+    "displayName": "Rosetown, Saskatchewan, CAN",
+    "lat": "51.5501",
+    "lng": "-108.00136",
+  },
+  Object {
+    "displayName": "Sechelt, British Columbia, CAN",
+    "lat": "49.47512",
+    "lng": "-123.75903",
+  },
+  Object {
+    "displayName": "Selkirk, Manitoba, CAN",
+    "lat": "50.1436",
+    "lng": "-96.88452",
+  },
+  Object {
+    "displayName": "Shediac, New Brunswick, CAN",
+    "lat": "46.21981",
+    "lng": "-64.54107",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Fermont it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Montréal, Quebec, CAN",
+    "lat": "45.50884",
+    "lng": "-73.58781",
+  },
+  Object {
+    "displayName": "Beaumont, CAN",
+    "lat": "53.35013",
+    "lng": "-113.41871",
+  },
+  Object {
+    "displayName": "Yarmouth, Nova Scotia, CAN",
+    "lat": "43.83345",
+    "lng": "-66.11557",
+  },
+  Object {
+    "displayName": "Vernon, British Columbia, CAN",
+    "lat": "50.26729",
+    "lng": "-119.27337",
+  },
+  Object {
+    "displayName": "Montréal-Ouest, Quebec, CAN",
+    "lat": "45.45286",
+    "lng": "-73.64918",
+  },
+  Object {
+    "displayName": "Deux-Montagnes, Quebec, CAN",
+    "lat": "45.53455",
+    "lng": "-73.90168",
+  },
+  Object {
+    "displayName": "Tobermory, Ontario, CAN",
+    "lat": "45.25007",
+    "lng": "-81.66647",
+  },
+  Object {
+    "displayName": "Pemberton, British Columbia, CAN",
+    "lat": "50.31641",
+    "lng": "-122.80273",
+  },
+  Object {
+    "displayName": "Fort McPherson, Northwest Territories, CAN",
+    "lat": "67.43863",
+    "lng": "-134.88543",
+  },
+  Object {
+    "displayName": "Warman, Saskatchewan, CAN",
+    "lat": "52.31679",
+    "lng": "-106.56791",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Gaspé it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Gaspé, Quebec, CAN",
+    "lat": "48.83341",
+    "lng": "-64.48194",
+  },
+  Object {
+    "displayName": "Jasper Park Lodge, CAN",
+    "lat": "52.88633",
+    "lng": "-118.05625",
+  },
+  Object {
+    "displayName": "Agassiz, British Columbia, CAN",
+    "lat": "49.23298",
+    "lng": "-121.76926",
+  },
+  Object {
+    "displayName": "Assiniboia, Saskatchewan, CAN",
+    "lat": "49.63336",
+    "lng": "-105.98446",
+  },
+  Object {
+    "displayName": "Bassano, CAN",
+    "lat": "50.78342",
+    "lng": "-112.46854",
+  },
+  Object {
+    "displayName": "Campbell River, British Columbia, CAN",
+    "lat": "50.01634",
+    "lng": "-125.24459",
+  },
+  Object {
+    "displayName": "Cap-Chat, Quebec, CAN",
+    "lat": "49.10009",
+    "lng": "-66.68212",
+  },
+  Object {
+    "displayName": "Casselman, Ontario, CAN",
+    "lat": "45.3168",
+    "lng": "-75.0826",
+  },
+  Object {
+    "displayName": "Dauphin, Manitoba, CAN",
+    "lat": "51.14941",
+    "lng": "-100.05023",
+  },
+  Object {
+    "displayName": "East Angus, Quebec, CAN",
+    "lat": "45.48338",
+    "lng": "-71.66577",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Gatineau it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Gatineau, Quebec, CAN",
+    "lat": "45.47723",
+    "lng": "-75.70164",
+  },
+  Object {
+    "displayName": "Papineauville, Quebec, CAN",
+    "lat": "45.6168",
+    "lng": "-75.01599",
+  },
+  Object {
+    "displayName": "Rideau Park, CAN",
+    "lat": "53.47899",
+    "lng": "-113.5047",
+  },
+  Object {
+    "displayName": "Portneuf, Quebec, CAN",
+    "lat": "46.69058",
+    "lng": "-71.89011",
+  },
+  Object {
+    "displayName": "Regina, Saskatchewan, CAN",
+    "lat": "50.45008",
+    "lng": "-104.6178",
+  },
+  Object {
+    "displayName": "Lorraine, Quebec, CAN",
+    "lat": "45.68338",
+    "lng": "-73.78249",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Georgina it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Ange-Gardien, Quebec, CAN",
+    "lat": "45.35008",
+    "lng": "-72.93244",
+  },
+  Object {
+    "displayName": "L'Ange-Gardien, Quebec, CAN",
+    "lat": "46.91976",
+    "lng": "-71.08253",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Gillam it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Killam, CAN",
+    "lat": "52.78344",
+    "lng": "-111.85175",
+  },
+  Object {
+    "displayName": "Williams Lake, British Columbia, CAN",
+    "lat": "52.14153",
+    "lng": "-122.14451",
+  },
+  Object {
+    "displayName": "Killarney, Manitoba, CAN",
+    "lat": "49.18332",
+    "lng": "-99.66364",
+  },
+  Object {
+    "displayName": "Coquitlam, British Columbia, CAN",
+    "lat": "49.28297",
+    "lng": "-122.75262",
+  },
+  Object {
+    "displayName": "Dollard-Des Ormeaux, Quebec, CAN",
+    "lat": "45.49452",
+    "lng": "-73.82419",
+  },
+  Object {
+    "displayName": "Miramichi, New Brunswick, CAN",
+    "lat": "47.02895",
+    "lng": "-65.50186",
+  },
+  Object {
+    "displayName": "Lamont, CAN",
+    "lat": "53.76686",
+    "lng": "-112.80195",
+  },
+  Object {
+    "displayName": "Millet, CAN",
+    "lat": "53.10013",
+    "lng": "-113.4687",
+  },
+  Object {
+    "displayName": "Midland, Ontario, CAN",
+    "lat": "44.7501",
+    "lng": "-79.88296",
+  },
+  Object {
+    "displayName": "Lillooet, British Columbia, CAN",
+    "lat": "50.6856",
+    "lng": "-121.942",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Gracefield it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Crossfield, CAN",
+    "lat": "51.43341",
+    "lng": "-114.03528",
+  },
+  Object {
+    "displayName": "Beaconsfield, Quebec, CAN",
+    "lat": "45.43341",
+    "lng": "-73.86586",
+  },
+  Object {
+    "displayName": "Tofield, CAN",
+    "lat": "53.36684",
+    "lng": "-112.66862",
+  },
+  Object {
+    "displayName": "Vegreville, CAN",
+    "lat": "53.50015",
+    "lng": "-112.05182",
+  },
+  Object {
+    "displayName": "Princeville, Nova Scotia, CAN",
+    "lat": "45.76684",
+    "lng": "-61.29853",
+  },
+  Object {
+    "displayName": "Princeville, Quebec, CAN",
+    "lat": "46.17163",
+    "lng": "-71.87462",
+  },
+  Object {
+    "displayName": "Sackville, New Brunswick, CAN",
+    "lat": "45.91875",
+    "lng": "-64.38455",
+  },
+  Object {
+    "displayName": "Greenwood, Nova Scotia, CAN",
+    "lat": "44.97413",
+    "lng": "-64.93169",
+  },
+  Object {
+    "displayName": "Trail, British Columbia, CAN",
+    "lat": "49.09983",
+    "lng": "-117.70223",
+  },
+  Object {
+    "displayName": "Preeceville, Saskatchewan, CAN",
+    "lat": "51.94998",
+    "lng": "-102.66766",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Gravenhurst it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Coalhurst, CAN",
+    "lat": "49.7464",
+    "lng": "-112.93246",
+  },
+  Object {
+    "displayName": "Greenstone, Ontario, CAN",
+    "lat": "49.73343",
+    "lng": "-87.16668",
+  },
+  Object {
+    "displayName": "Bathurst, New Brunswick, CAN",
+    "lat": "47.61814",
+    "lng": "-65.65112",
+  },
+  Object {
+    "displayName": "Amherst, Nova Scotia, CAN",
+    "lat": "45.83345",
+    "lng": "-64.19874",
+  },
+  Object {
+    "displayName": "Rivers, Manitoba, CAN",
+    "lat": "50.03081",
+    "lng": "-100.24029",
+  },
+  Object {
+    "displayName": "Englehart, Ontario, CAN",
+    "lat": "47.81686",
+    "lng": "-79.8664",
+  },
+  Object {
+    "displayName": "Langenburg, Saskatchewan, CAN",
+    "lat": "50.84999",
+    "lng": "-101.71763",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Greater Napanee it matches the snapshot 1`] = `Array []`;
+
+exports[`CitySuggest when searching for CA city Greater Sudbury it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Greater Sudbury, Ontario, CAN",
+    "lat": "46.49",
+    "lng": "-80.99001",
+  },
+  Object {
+    "displayName": "Greater Napanee, Ontario, CAN",
+    "lat": "44.25012",
+    "lng": "-76.94944",
+  },
+  Object {
+    "displayName": "Amherstburg, Ontario, CAN",
+    "lat": "42.11679",
+    "lng": "-83.04985",
+  },
+  Object {
+    "displayName": "Glace Bay, Nova Scotia, CAN",
+    "lat": "46.19695",
+    "lng": "-59.95698",
+  },
+  Object {
+    "displayName": "Gravelbourg, Saskatchewan, CAN",
+    "lat": "49.88336",
+    "lng": "-106.55122",
+  },
+  Object {
+    "displayName": "Gravenhurst, Ontario, CAN",
+    "lat": "44.91681",
+    "lng": "-79.36633",
+  },
+  Object {
+    "displayName": "Hawkesbury, Ontario, CAN",
+    "lat": "45.60009",
+    "lng": "-74.61595",
+  },
+  Object {
+    "displayName": "Otterburn Park, Quebec, CAN",
+    "lat": "45.53338",
+    "lng": "-73.21585",
+  },
+  Object {
+    "displayName": "Salisbury, New Brunswick, CAN",
+    "lat": "46.03905",
+    "lng": "-65.04628",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Haldimand County it matches the snapshot 1`] = `Array []`;
+
+exports[`CitySuggest when searching for CA city Halton Hills it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Danville, Quebec, CAN",
+    "lat": "45.78337",
+    "lng": "-72.0158",
+  },
+  Object {
+    "displayName": "Shawville, Quebec, CAN",
+    "lat": "45.60011",
+    "lng": "-76.4827",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Hamilton it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Hamilton, Ontario, CAN",
+    "lat": "43.25011",
+    "lng": "-79.84963",
+  },
+  Object {
+    "displayName": "Milton, Ontario, CAN",
+    "lat": "43.51681",
+    "lng": "-79.88294",
+  },
+  Object {
+    "displayName": "Hampton, New Brunswick, CAN",
+    "lat": "45.52876",
+    "lng": "-65.85354",
+  },
+  Object {
+    "displayName": "Hinton, CAN",
+    "lat": "53.40009",
+    "lng": "-117.58567",
+  },
+  Object {
+    "displayName": "Lambton Shores, Ontario, CAN",
+    "lat": "43.16678",
+    "lng": "-81.93309",
+  },
+  Object {
+    "displayName": "Altona, Manitoba, CAN",
+    "lat": "49.10469",
+    "lng": "-97.55961",
+  },
+  Object {
+    "displayName": "Brampton, Ontario, CAN",
+    "lat": "43.68341",
+    "lng": "-79.76633",
+  },
+  Object {
+    "displayName": "Vermilion, CAN",
+    "lat": "53.35409",
+    "lng": "-110.85849",
+  },
+  Object {
+    "displayName": "Harrison Brook, New Brunswick, CAN",
+    "lat": "47.21304",
+    "lng": "-67.92847",
+  },
+  Object {
+    "displayName": "Salmon Arm, British Columbia, CAN",
+    "lat": "50.6998",
+    "lng": "-119.30237",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Happy Valley-Goose Bay it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Happy Valley-Goose Bay, Newfoundland and Labrador, CAN",
+    "lat": "53.3038",
+    "lng": "-60.32576",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Huntsville it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Huntsville, Ontario, CAN",
+    "lat": "45.33341",
+    "lng": "-79.21632",
+  },
+  Object {
+    "displayName": "Kentville, Nova Scotia, CAN",
+    "lat": "45.0771",
+    "lng": "-64.49605",
+  },
+  Object {
+    "displayName": "Hanceville, British Columbia, CAN",
+    "lat": "51.91922",
+    "lng": "-123.04458",
+  },
+  Object {
+    "displayName": "Cowansville, Quebec, CAN",
+    "lat": "45.20008",
+    "lng": "-72.74913",
+  },
+  Object {
+    "displayName": "Martensville, Saskatchewan, CAN",
+    "lat": "52.28339",
+    "lng": "-106.66792",
+  },
+  Object {
+    "displayName": "Stephenville, Newfoundland and Labrador, CAN",
+    "lat": "48.55001",
+    "lng": "-58.5818",
+  },
+  Object {
+    "displayName": "Stephenville Crossing, Newfoundland and Labrador, CAN",
+    "lat": "48.50001",
+    "lng": "-58.4318",
+  },
+  Object {
+    "displayName": "Bonnyville, CAN",
+    "lat": "54.26684",
+    "lng": "-110.73505",
+  },
+  Object {
+    "displayName": "Neuville, Quebec, CAN",
+    "lat": "46.69823",
+    "lng": "-71.58275",
+  },
+  Object {
+    "displayName": "Mandeville, Quebec, CAN",
+    "lat": "46.36677",
+    "lng": "-73.34915",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Innisfil it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Bowen Island, British Columbia, CAN",
+    "lat": "49.3847",
+    "lng": "-123.33622",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Iroquois Falls it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Iroquois Falls, Ontario, CAN",
+    "lat": "48.76688",
+    "lng": "-80.68307",
+  },
+  Object {
+    "displayName": "Smiths Falls, Ontario, CAN",
+    "lat": "44.90452",
+    "lng": "-76.02333",
+  },
+  Object {
+    "displayName": "Grand Falls-Windsor, Newfoundland and Labrador, CAN",
+    "lat": "48.93324",
+    "lng": "-55.66492",
+  },
+  Object {
+    "displayName": "Kingsey Falls, Quebec, CAN",
+    "lat": "45.85007",
+    "lng": "-72.0658",
+  },
+  Object {
+    "displayName": "Drayton Valley, CAN",
+    "lat": "53.21682",
+    "lng": "-114.98544",
+  },
+  Object {
+    "displayName": "Louiseville, Quebec, CAN",
+    "lat": "46.25594",
+    "lng": "-72.94145",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Kamloops it matches the snapshot 1`] = `Array []`;
+
+exports[`CitySuggest when searching for CA city Kawartha Lakes it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Watson Lake, Yukon, CAN",
+    "lat": "60.06349",
+    "lng": "-128.70893",
+  },
+  Object {
+    "displayName": "Niagara Falls, Ontario, CAN",
+    "lat": "43.10012",
+    "lng": "-79.06627",
+  },
+  Object {
+    "displayName": "Kirkland Lake, Ontario, CAN",
+    "lat": "48.14461",
+    "lng": "-80.03767",
+  },
+  Object {
+    "displayName": "Elliot Lake, Ontario, CAN",
+    "lat": "46.38336",
+    "lng": "-82.63315",
+  },
+  Object {
+    "displayName": "Foam Lake, Saskatchewan, CAN",
+    "lat": "51.65001",
+    "lng": "-103.53431",
+  },
+  Object {
+    "displayName": "Athabasca, CAN",
+    "lat": "54.71687",
+    "lng": "-113.28537",
+  },
+  Object {
+    "displayName": "Logan Lake, British Columbia, CAN",
+    "lat": "50.49976",
+    "lng": "-120.80253",
+  },
+  Object {
+    "displayName": "Meadow Lake, Saskatchewan, CAN",
+    "lat": "54.13348",
+    "lng": "-108.43471",
+  },
+  Object {
+    "displayName": "Burns Lake, British Columbia, CAN",
+    "lat": "54.22972",
+    "lng": "-125.76084",
+  },
+  Object {
+    "displayName": "Port Hawkesbury, Nova Scotia, CAN",
+    "lat": "45.61685",
+    "lng": "-61.34853",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Kearney it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Kimberley, British Columbia, CAN",
+    "lat": "49.67071",
+    "lng": "-115.9776",
+  },
+  Object {
+    "displayName": "Marieville, Quebec, CAN",
+    "lat": "45.43338",
+    "lng": "-73.16585",
+  },
+  Object {
+    "displayName": "Carberry, Manitoba, CAN",
+    "lat": "49.86893",
+    "lng": "-99.36021",
+  },
+  Object {
+    "displayName": "East York, Ontario, CAN",
+    "lat": "43.69053",
+    "lng": "-79.32794",
+  },
+  Object {
+    "displayName": "Ladner, British Columbia, CAN",
+    "lat": "49.08938",
+    "lng": "-123.08241",
+  },
+  Object {
+    "displayName": "Farnham, Quebec, CAN",
+    "lat": "45.28338",
+    "lng": "-72.98244",
+  },
+  Object {
+    "displayName": "Ferme-Neuve, Quebec, CAN",
+    "lat": "46.70011",
+    "lng": "-75.44929",
+  },
+  Object {
+    "displayName": "Fernie, British Columbia, CAN",
+    "lat": "49.49996",
+    "lng": "-115.06871",
+  },
+  Object {
+    "displayName": "Granby, Quebec, CAN",
+    "lat": "45.40008",
+    "lng": "-72.73243",
+  },
+  Object {
+    "displayName": "Haines Junction, Yukon, CAN",
+    "lat": "60.75216",
+    "lng": "-137.51082",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Kingston it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Kingston, Ontario, CAN",
+    "lat": "44.22976",
+    "lng": "-76.48098",
+  },
+  Object {
+    "displayName": "Kensington, Prince Edward Island, CAN",
+    "lat": "46.43343",
+    "lng": "-63.64871",
+  },
+  Object {
+    "displayName": "Burlington, Ontario, CAN",
+    "lat": "43.38621",
+    "lng": "-79.83713",
+  },
+  Object {
+    "displayName": "Huntingdon, Quebec, CAN",
+    "lat": "45.08339",
+    "lng": "-74.16593",
+  },
+  Object {
+    "displayName": "Maskinongé, Quebec, CAN",
+    "lat": "46.2286",
+    "lng": "-73.01917",
+  },
+  Object {
+    "displayName": "Stony Plain, CAN",
+    "lat": "53.53343",
+    "lng": "-114.00205",
+  },
+  Object {
+    "displayName": "Gibsons, British Columbia, CAN",
+    "lat": "49.39539",
+    "lng": "-123.50555",
+  },
+  Object {
+    "displayName": "Houston, British Columbia, CAN",
+    "lat": "54.39976",
+    "lng": "-126.67008",
+  },
+  Object {
+    "displayName": "Windsor, Ontario, CAN",
+    "lat": "42.30008",
+    "lng": "-83.01654",
+  },
+  Object {
+    "displayName": "Windsor, Quebec, CAN",
+    "lat": "45.56678",
+    "lng": "-71.99909",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city La Malbaie it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "La Malbaie, Quebec, CAN",
+    "lat": "47.654",
+    "lng": "-70.15268",
+  },
+  Object {
+    "displayName": "St. Albert, CAN",
+    "lat": "53.63344",
+    "lng": "-113.63533",
+  },
+  Object {
+    "displayName": "Ville-Marie, Quebec, CAN",
+    "lat": "47.33345",
+    "lng": "-79.43297",
+  },
+  Object {
+    "displayName": "Sault Ste. Marie, Ontario, CAN",
+    "lat": "46.51677",
+    "lng": "-84.33325",
+  },
+  Object {
+    "displayName": "Lacolle, Quebec, CAN",
+    "lat": "45.08338",
+    "lng": "-73.36585",
+  },
+  Object {
+    "displayName": "Lacombe, CAN",
+    "lat": "52.46681",
+    "lng": "-113.7353",
+  },
+  Object {
+    "displayName": "Laval, Quebec, CAN",
+    "lat": "45.56995",
+    "lng": "-73.692",
+  },
+  Object {
+    "displayName": "Yamachiche, Quebec, CAN",
+    "lat": "46.26676",
+    "lng": "-72.83243",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city La Tuque it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "La Tuque, Quebec, CAN",
+    "lat": "47.43337",
+    "lng": "-72.7824",
+  },
+  Object {
+    "displayName": "La Broquerie, Manitoba, CAN",
+    "lat": "49.51688",
+    "lng": "-96.50029",
+  },
+  Object {
+    "displayName": "La Haute-Saint-Charles, Quebec, CAN",
+    "lat": "46.89028",
+    "lng": "-71.37222",
+  },
+  Object {
+    "displayName": "Lachute, Quebec, CAN",
+    "lat": "45.65008",
+    "lng": "-74.33253",
+  },
+  Object {
+    "displayName": "Laurel, CAN",
+    "lat": "53.44667",
+    "lng": "-113.38197",
+  },
+  Object {
+    "displayName": "La Conception, Quebec, CAN",
+    "lat": "46.15009",
+    "lng": "-74.69925",
+  },
+  Object {
+    "displayName": "La Minerve, Quebec, CAN",
+    "lat": "46.25009",
+    "lng": "-74.93257",
+  },
+  Object {
+    "displayName": "La Ronge, Saskatchewan, CAN",
+    "lat": "55.10013",
+    "lng": "-105.28422",
+  },
+  Object {
+    "displayName": "La Sarre, Quebec, CAN",
+    "lat": "48.80019",
+    "lng": "-79.19964",
+  },
+  Object {
+    "displayName": "Gananoque, Ontario, CAN",
+    "lat": "44.33342",
+    "lng": "-76.16607",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Lakeshore it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Cookshire-Eaton, Quebec, CAN",
+    "lat": "45.41675",
+    "lng": "-71.6324",
+  },
+  Object {
+    "displayName": "Langford, British Columbia, CAN",
+    "lat": "48.44963",
+    "lng": "-123.50261",
+  },
+  Object {
+    "displayName": "Canmore, CAN",
+    "lat": "51.08335",
+    "lng": "-115.35206",
+  },
+  Object {
+    "displayName": "Anmore, British Columbia, CAN",
+    "lat": "49.31637",
+    "lng": "-122.85263",
+  },
+  Object {
+    "displayName": "Parrsboro, Nova Scotia, CAN",
+    "lat": "45.40567",
+    "lng": "-64.32585",
+  },
+  Object {
+    "displayName": "Mayerthorpe, CAN",
+    "lat": "53.95015",
+    "lng": "-115.13547",
+  },
+  Object {
+    "displayName": "Hantsport, Nova Scotia, CAN",
+    "lat": "45.06685",
+    "lng": "-64.16544",
+  },
+  Object {
+    "displayName": "Kenora, Ontario, CAN",
+    "lat": "49.76741",
+    "lng": "-94.48985",
+  },
+  Object {
+    "displayName": "Kerrobert, Saskatchewan, CAN",
+    "lat": "51.91682",
+    "lng": "-109.13479",
+  },
+  Object {
+    "displayName": "Ashcroft, British Columbia, CAN",
+    "lat": "50.72372",
+    "lng": "-121.28207",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Laurentian Hills it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Swan Hills, CAN",
+    "lat": "54.71681",
+    "lng": "-115.40226",
+  },
+  Object {
+    "displayName": "Three Hills, CAN",
+    "lat": "51.70012",
+    "lng": "-113.26863",
+  },
+  Object {
+    "displayName": "Norman Wells, Northwest Territories, CAN",
+    "lat": "65.28201",
+    "lng": "-126.8329",
+  },
+  Object {
+    "displayName": "Springhill, Nova Scotia, CAN",
+    "lat": "45.65015",
+    "lng": "-64.04873",
+  },
+  Object {
+    "displayName": "Two Hills, CAN",
+    "lat": "53.71686",
+    "lng": "-111.75181",
+  },
+  Object {
+    "displayName": "Blainville, Quebec, CAN",
+    "lat": "45.66678",
+    "lng": "-73.88249",
+  },
+  Object {
+    "displayName": "Florenceville-Bristol, New Brunswick, CAN",
+    "lat": "46.44353",
+    "lng": "-67.61536",
+  },
+  Object {
+    "displayName": "Saint-Lin-Laurentides, Quebec, CAN",
+    "lat": "45.85008",
+    "lng": "-73.76588",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Leaf Rapids it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Maple Ridge, CAN",
+    "lat": "53.50172",
+    "lng": "-113.36274",
+  },
+  Object {
+    "displayName": "Maple Ridge, British Columbia, CAN",
+    "lat": "49.21939",
+    "lng": "-122.60193",
+  },
+  Object {
+    "displayName": "Tumbler Ridge, British Columbia, CAN",
+    "lat": "55.13027",
+    "lng": "-120.99415",
+  },
+  Object {
+    "displayName": "Ear Falls, Ontario, CAN",
+    "lat": "50.63955",
+    "lng": "-93.23526",
+  },
+  Object {
+    "displayName": "Labrador City, Newfoundland and Labrador, CAN",
+    "lat": "52.94626",
+    "lng": "-66.91137",
+  },
+  Object {
+    "displayName": "Lanoraie, Quebec, CAN",
+    "lat": "45.96677",
+    "lng": "-73.21585",
+  },
+  Object {
+    "displayName": "La Prairie, Quebec, CAN",
+    "lat": "45.41678",
+    "lng": "-73.49917",
+  },
+  Object {
+    "displayName": "Lethbridge, CAN",
+    "lat": "49.69999",
+    "lng": "-112.81856",
+  },
+  Object {
+    "displayName": "Blackfalds, CAN",
+    "lat": "52.38342",
+    "lng": "-113.7853",
+  },
+  Object {
+    "displayName": "Walpole Island, Ontario, CAN",
+    "lat": "42.6152",
+    "lng": "-82.51398",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city London it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Ponoka, CAN",
+    "lat": "52.6768",
+    "lng": "-113.58147",
+  },
+  Object {
+    "displayName": "Wendover, Ontario, CAN",
+    "lat": "45.57275",
+    "lng": "-75.12757",
+  },
+  Object {
+    "displayName": "Nanton, CAN",
+    "lat": "50.35008",
+    "lng": "-113.76866",
+  },
+  Object {
+    "displayName": "Lunenburg, Nova Scotia, CAN",
+    "lat": "44.37847",
+    "lng": "-64.31658",
+  },
+  Object {
+    "displayName": "Longueuil, Quebec, CAN",
+    "lat": "45.53121",
+    "lng": "-73.51806",
+  },
+  Object {
+    "displayName": "Golden, British Columbia, CAN",
+    "lat": "51.29995",
+    "lng": "-116.9689",
+  },
+  Object {
+    "displayName": "Shannon, Quebec, CAN",
+    "lat": "46.88026",
+    "lng": "-71.51464",
+  },
+  Object {
+    "displayName": "Nelson, British Columbia, CAN",
+    "lat": "49.49985",
+    "lng": "-117.28553",
+  },
+  Object {
+    "displayName": "Deloraine, Manitoba, CAN",
+    "lat": "49.19082",
+    "lng": "-100.49477",
+  },
+  Object {
+    "displayName": "Kelowna, British Columbia, CAN",
+    "lat": "49.88307",
+    "lng": "-119.48568",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Lynn Lake it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Lac La Biche, CAN",
+    "lat": "54.7669",
+    "lng": "-111.96861",
+  },
+  Object {
+    "displayName": "Lake Cowichan, British Columbia, CAN",
+    "lat": "48.82495",
+    "lng": "-124.05461",
+  },
+  Object {
+    "displayName": "Langley, British Columbia, CAN",
+    "lat": "49.10107",
+    "lng": "-122.65883",
+  },
+  Object {
+    "displayName": "le Plateau, Quebec, CAN",
+    "lat": "45.43514",
+    "lng": "-75.7803",
+  },
+  Object {
+    "displayName": "Acton Vale, Quebec, CAN",
+    "lat": "45.65007",
+    "lng": "-72.56582",
+  },
+  Object {
+    "displayName": "Clyde River, Nunavut, CAN",
+    "lat": "70.46916",
+    "lng": "-68.59143",
+  },
+  Object {
+    "displayName": "Carleton Place, Ontario, CAN",
+    "lat": "45.13341",
+    "lng": "-76.14938",
+  },
+  Object {
+    "displayName": "Carlyle, Saskatchewan, CAN",
+    "lat": "49.63334",
+    "lng": "-102.26765",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Lévis it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Lévis, Quebec, CAN",
+    "lat": "46.80326",
+    "lng": "-71.17793",
+  },
+  Object {
+    "displayName": "Prévost, Quebec, CAN",
+    "lat": "45.86678",
+    "lng": "-74.08251",
+  },
+  Object {
+    "displayName": "Bonavista, Newfoundland and Labrador, CAN",
+    "lat": "48.64989",
+    "lng": "-53.11474",
+  },
+  Object {
+    "displayName": "Wolfville, Nova Scotia, CAN",
+    "lat": "45.08345",
+    "lng": "-64.36546",
+  },
+  Object {
+    "displayName": "New Carlisle, Quebec, CAN",
+    "lat": "48.00956",
+    "lng": "-65.33621",
+  },
+  Object {
+    "displayName": "Saint-Félix-de-Valois, Quebec, CAN",
+    "lat": "46.16977",
+    "lng": "-73.42525",
+  },
+  Object {
+    "displayName": "Les Coteaux, Quebec, CAN",
+    "lat": "45.28338",
+    "lng": "-74.23254",
+  },
+  Object {
+    "displayName": "Lions Bay, British Columbia, CAN",
+    "lat": "49.45218",
+    "lng": "-123.2376",
+  },
+  Object {
+    "displayName": "Lumsden, Saskatchewan, CAN",
+    "lat": "50.65009",
+    "lng": "-104.86783",
+  },
+  Object {
+    "displayName": "Lutes Mountain, New Brunswick, CAN",
+    "lat": "46.13544",
+    "lng": "-64.90504",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Milton it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Picton, Ontario, CAN",
+    "lat": "44.00012",
+    "lng": "-77.13275",
+  },
+  Object {
+    "displayName": "Penticton, British Columbia, CAN",
+    "lat": "49.48062",
+    "lng": "-119.58584",
+  },
+  Object {
+    "displayName": "Fredericton, New Brunswick, CAN",
+    "lat": "45.94541",
+    "lng": "-66.66558",
+  },
+  Object {
+    "displayName": "Gibbons, CAN",
+    "lat": "53.83345",
+    "lng": "-113.33531",
+  },
+  Object {
+    "displayName": "Sutton, Quebec, CAN",
+    "lat": "45.10008",
+    "lng": "-72.61582",
+  },
+  Object {
+    "displayName": "Pilot Butte, Saskatchewan, CAN",
+    "lat": "50.46678",
+    "lng": "-104.41778",
+  },
+  Object {
+    "displayName": "Victoriaville, Quebec, CAN",
+    "lat": "46.05007",
+    "lng": "-71.96579",
+  },
+  Object {
+    "displayName": "Victoria, British Columbia, CAN",
+    "lat": "48.43294",
+    "lng": "-123.3693",
+  },
+  Object {
+    "displayName": "Creston, British Columbia, CAN",
+    "lat": "49.09987",
+    "lng": "-116.50211",
+  },
+  Object {
+    "displayName": "Kamloops, British Columbia, CAN",
+    "lat": "50.66648",
+    "lng": "-120.3192",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Minto it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Pointe-Calumet, Quebec, CAN",
+    "lat": "45.50008",
+    "lng": "-73.9659",
+  },
+  Object {
+    "displayName": "Pointe-Claire, Quebec, CAN",
+    "lat": "45.44868",
+    "lng": "-73.81669",
+  },
+  Object {
+    "displayName": "Saint-Marc-des-Carrières, Quebec, CAN",
+    "lat": "46.68335",
+    "lng": "-72.0491",
+  },
+  Object {
+    "displayName": "Sexsmith, CAN",
+    "lat": "55.34998",
+    "lng": "-118.78602",
+  },
+  Object {
+    "displayName": "Ladysmith, British Columbia, CAN",
+    "lat": "48.99016",
+    "lng": "-123.81699",
+  },
+  Object {
+    "displayName": "Dolbeau-Mistassini, Quebec, CAN",
+    "lat": "48.8786",
+    "lng": "-72.23142",
+  },
+  Object {
+    "displayName": "Morinville, CAN",
+    "lat": "53.80014",
+    "lng": "-113.65203",
+  },
+  Object {
+    "displayName": "Maniwaki, Quebec, CAN",
+    "lat": "46.38341",
+    "lng": "-75.96605",
+  },
+  Object {
+    "displayName": "Mascouche, Quebec, CAN",
+    "lat": "45.74965",
+    "lng": "-73.59956",
+  },
+  Object {
+    "displayName": "Metchosin, British Columbia, CAN",
+    "lat": "48.38293",
+    "lng": "-123.53591",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Mirabel it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Mirabel, Quebec, CAN",
+    "lat": "45.65008",
+    "lng": "-74.08251",
+  },
+  Object {
+    "displayName": "Metabetchouan-Lac-a-la-Croix, Quebec, CAN",
+    "lat": "48.41",
+    "lng": "-71.78",
+  },
+  Object {
+    "displayName": "Saint-Michel-des-Saints, Quebec, CAN",
+    "lat": "46.68338",
+    "lng": "-73.91589",
+  },
+  Object {
+    "displayName": "Matane, Quebec, CAN",
+    "lat": "48.82857",
+    "lng": "-67.52197",
+  },
+  Object {
+    "displayName": "Iqaluit, Nunavut, CAN",
+    "lat": "63.74697",
+    "lng": "-68.51727",
+  },
+  Object {
+    "displayName": "Macklin, Saskatchewan, CAN",
+    "lat": "52.33344",
+    "lng": "-109.93484",
+  },
+  Object {
+    "displayName": "Maple Creek, Saskatchewan, CAN",
+    "lat": "49.91678",
+    "lng": "-109.48481",
+  },
+  Object {
+    "displayName": "Marathon, Ontario, CAN",
+    "lat": "48.7501",
+    "lng": "-86.43322",
+  },
+  Object {
+    "displayName": "Melfort, Saskatchewan, CAN",
+    "lat": "52.86673",
+    "lng": "-104.61768",
+  },
+  Object {
+    "displayName": "Mercier, Quebec, CAN",
+    "lat": "45.31678",
+    "lng": "-73.74919",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Mississauga it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Shippagan, New Brunswick, CAN",
+    "lat": "47.74424",
+    "lng": "-64.70804",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Mississippi Mills it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Mississauga, Ontario, CAN",
+    "lat": "43.5789",
+    "lng": "-79.6583",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Mono it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Raymond, CAN",
+    "lat": "49.44998",
+    "lng": "-112.65185",
+  },
+  Object {
+    "displayName": "Richmond, Quebec, CAN",
+    "lat": "45.66677",
+    "lng": "-72.1491",
+  },
+  Object {
+    "displayName": "Richmond, British Columbia, CAN",
+    "lat": "49.17003",
+    "lng": "-123.13683",
+  },
+  Object {
+    "displayName": "New-Richmond, Quebec, CAN",
+    "lat": "48.16059",
+    "lng": "-65.85823",
+  },
+  Object {
+    "displayName": "Jonquière, Quebec, CAN",
+    "lat": "48.41648",
+    "lng": "-71.24884",
+  },
+  Object {
+    "displayName": "Woodstock, Ontario, CAN",
+    "lat": "43.13339",
+    "lng": "-80.7497",
+  },
+  Object {
+    "displayName": "Magog, Quebec, CAN",
+    "lat": "45.26678",
+    "lng": "-72.14909",
+  },
+  Object {
+    "displayName": "Bon Accord, CAN",
+    "lat": "53.83345",
+    "lng": "-113.41872",
+  },
+  Object {
+    "displayName": "Morris, Manitoba, CAN",
+    "lat": "49.35499",
+    "lng": "-97.36567",
+  },
+  Object {
+    "displayName": "Morrisburg, Ontario, CAN",
+    "lat": "44.9001",
+    "lng": "-75.18261",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Mont-Laurier it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Saint-Laurent, Quebec, CAN",
+    "lat": "45.50008",
+    "lng": "-73.66585",
+  },
+  Object {
+    "displayName": "Saint-Gabriel, Quebec, CAN",
+    "lat": "46.30007",
+    "lng": "-73.38245",
+  },
+  Object {
+    "displayName": "Pont-Rouge, Quebec, CAN",
+    "lat": "46.75468",
+    "lng": "-71.69566",
+  },
+  Object {
+    "displayName": "Montréal-Est, Quebec, CAN",
+    "lat": "45.63202",
+    "lng": "-73.5075",
+  },
+  Object {
+    "displayName": "Mont-Royal, Quebec, CAN",
+    "lat": "45.51675",
+    "lng": "-73.64918",
+  },
+  Object {
+    "displayName": "Saint-Norbert, Quebec, CAN",
+    "lat": "46.16949",
+    "lng": "-73.31494",
+  },
+  Object {
+    "displayName": "Saint-Nazaire, Quebec, CAN",
+    "lat": "48.58944",
+    "lng": "-71.55247",
+  },
+  Object {
+    "displayName": "Sainte-Marie, Quebec, CAN",
+    "lat": "46.43401",
+    "lng": "-71.01168",
+  },
+  Object {
+    "displayName": "Saint-Mathieu, Quebec, CAN",
+    "lat": "45.31678",
+    "lng": "-73.51587",
+  },
+  Object {
+    "displayName": "Saint-Lazare, Quebec, CAN",
+    "lat": "45.40008",
+    "lng": "-74.13256",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Montreal it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Dorval, Quebec, CAN",
+    "lat": "45.4473",
+    "lng": "-73.75335",
+  },
+  Object {
+    "displayName": "Mount Pearl, Newfoundland and Labrador, CAN",
+    "lat": "47.51659",
+    "lng": "-52.78135",
+  },
+  Object {
+    "displayName": "Roberval, Quebec, CAN",
+    "lat": "48.5168",
+    "lng": "-72.23244",
+  },
+  Object {
+    "displayName": "Huron East, Ontario, CAN",
+    "lat": "43.61679",
+    "lng": "-81.29975",
+  },
+  Object {
+    "displayName": "Drummondville, Quebec, CAN",
+    "lat": "45.88336",
+    "lng": "-72.48241",
+  },
+  Object {
+    "displayName": "Richmond Hill, Ontario, CAN",
+    "lat": "43.87111",
+    "lng": "-79.43725",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Moosonee it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Moose Jaw, Saskatchewan, CAN",
+    "lat": "50.40005",
+    "lng": "-105.53445",
+  },
+  Object {
+    "displayName": "Moosomin, Saskatchewan, CAN",
+    "lat": "50.13332",
+    "lng": "-101.66766",
+  },
+  Object {
+    "displayName": "Camrose, CAN",
+    "lat": "53.01684",
+    "lng": "-112.83525",
+  },
+  Object {
+    "displayName": "Thompson, Manitoba, CAN",
+    "lat": "55.7435",
+    "lng": "-97.85579",
+  },
+  Object {
+    "displayName": "Fort-Coulonge, Quebec, CAN",
+    "lat": "45.85011",
+    "lng": "-76.73272",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city New Tecumseth it matches the snapshot 1`] = `Array []`;
+
+exports[`CitySuggest when searching for CA city Norfolk County it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Norfolk County, Ontario, CAN",
+    "lat": "42.8334",
+    "lng": "-80.38297",
+  },
+  Object {
+    "displayName": "Rocky Mountain House, CAN",
+    "lat": "52.36683",
+    "lng": "-114.9188",
+  },
+  Object {
+    "displayName": "Elk Point, CAN",
+    "lat": "53.90017",
+    "lng": "-110.9017",
+  },
+  Object {
+    "displayName": "North Cowichan, British Columbia, CAN",
+    "lat": "48.84133",
+    "lng": "-123.68596",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city North Bay it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "North Saanich, British Columbia, CAN",
+    "lat": "48.66634",
+    "lng": "-123.41933",
+  },
+  Object {
+    "displayName": "North York, Ontario, CAN",
+    "lat": "43.76681",
+    "lng": "-79.4163",
+  },
+  Object {
+    "displayName": "Fort Saskatchewan, CAN",
+    "lat": "53.71684",
+    "lng": "-113.2187",
+  },
+  Object {
+    "displayName": "Oak Bay, British Columbia, CAN",
+    "lat": "48.44964",
+    "lng": "-123.3026",
+  },
+  Object {
+    "displayName": "Hornepayne, Ontario, CAN",
+    "lat": "49.21451",
+    "lng": "-84.77617",
+  },
+  Object {
+    "displayName": "Fort Nelson, British Columbia, CAN",
+    "lat": "58.80533",
+    "lng": "-122.7002",
+  },
+  Object {
+    "displayName": "Fort McMurray, CAN",
+    "lat": "56.72676",
+    "lng": "-111.38103",
+  },
+  Object {
+    "displayName": "Fort Frances, Ontario, CAN",
+    "lat": "48.61667",
+    "lng": "-93.4003",
+  },
+  Object {
+    "displayName": "Fort Smith, Northwest Territories, CAN",
+    "lat": "60.00439",
+    "lng": "-111.88871",
+  },
+  Object {
+    "displayName": "South Huron, Ontario, CAN",
+    "lat": "43.31679",
+    "lng": "-81.51647",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Northeastern Manitoulin and the Islands it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Rossland, British Columbia, CAN",
+    "lat": "49.08313",
+    "lng": "-117.80224",
+  },
+  Object {
+    "displayName": "Boisbriand, Quebec, CAN",
+    "lat": "45.61678",
+    "lng": "-73.83249",
+  },
+  Object {
+    "displayName": "Bow Island, CAN",
+    "lat": "49.86676",
+    "lng": "-111.36843",
+  },
+  Object {
+    "displayName": "Candiac, Quebec, CAN",
+    "lat": "45.38338",
+    "lng": "-73.51587",
+  },
+  Object {
+    "displayName": "Cumberland, British Columbia, CAN",
+    "lat": "49.61634",
+    "lng": "-125.03613",
+  },
+  Object {
+    "displayName": "Grand Bank, Newfoundland and Labrador, CAN",
+    "lat": "47.09995",
+    "lng": "-55.76504",
+  },
+  Object {
+    "displayName": "Grande Prairie, CAN",
+    "lat": "55.16667",
+    "lng": "-118.80271",
+  },
+  Object {
+    "displayName": "Grand Forks, British Columbia, CAN",
+    "lat": "49.03309",
+    "lng": "-118.4356",
+  },
+  Object {
+    "displayName": "Kirkland, Quebec, CAN",
+    "lat": "45.45008",
+    "lng": "-73.86586",
+  },
+  Object {
+    "displayName": "Normandin, Quebec, CAN",
+    "lat": "48.83328",
+    "lng": "-72.53209",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Ottawa it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Ottawa, Ontario, CAN",
+    "lat": "45.41117",
+    "lng": "-75.69812",
+  },
+  Object {
+    "displayName": "Mattawa, Ontario, CAN",
+    "lat": "46.31681",
+    "lng": "-78.69957",
+  },
+  Object {
+    "displayName": "Oshawa, Ontario, CAN",
+    "lat": "43.90012",
+    "lng": "-78.84957",
+  },
+  Object {
+    "displayName": "Petawawa, Ontario, CAN",
+    "lat": "45.89452",
+    "lng": "-77.28007",
+  },
+  Object {
+    "displayName": "Tamarack, CAN",
+    "lat": "53.46441",
+    "lng": "-113.36235",
+  },
+  Object {
+    "displayName": "Tracadie-Sheila, New Brunswick, CAN",
+    "lat": "47.51444",
+    "lng": "-64.91806",
+  },
+  Object {
+    "displayName": "Okanagan, British Columbia, CAN",
+    "lat": "50.36386",
+    "lng": "-119.34997",
+  },
+  Object {
+    "displayName": "Delaware, Ontario, CAN",
+    "lat": "42.91679",
+    "lng": "-81.41646",
+  },
+  Object {
+    "displayName": "Matagami, Quebec, CAN",
+    "lat": "49.75018",
+    "lng": "-77.63277",
+  },
+  Object {
+    "displayName": "Powassan, Ontario, CAN",
+    "lat": "46.0334",
+    "lng": "-79.34961",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Percé it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Peachland, British Columbia, CAN",
+    "lat": "49.76647",
+    "lng": "-119.73568",
+  },
+  Object {
+    "displayName": "Perth, Ontario, CAN",
+    "lat": "44.90011",
+    "lng": "-76.24939",
+  },
+  Object {
+    "displayName": "Verchères, Quebec, CAN",
+    "lat": "45.78338",
+    "lng": "-73.34916",
+  },
+  Object {
+    "displayName": "Beaupré, Quebec, CAN",
+    "lat": "47.04428",
+    "lng": "-70.89529",
+  },
+  Object {
+    "displayName": "North Perth, Ontario, CAN",
+    "lat": "43.7251",
+    "lng": "-80.96723",
+  },
+  Object {
+    "displayName": "Pictou, Nova Scotia, CAN",
+    "lat": "45.67875",
+    "lng": "-62.70936",
+  },
+  Object {
+    "displayName": "Parksville, British Columbia, CAN",
+    "lat": "49.31947",
+    "lng": "-124.31575",
+  },
+  Object {
+    "displayName": "Parry Sound, Ontario, CAN",
+    "lat": "45.34732",
+    "lng": "-80.03527",
+  },
+  Object {
+    "displayName": "Dorchester, Ontario, CAN",
+    "lat": "42.98339",
+    "lng": "-81.06643",
+  },
+  Object {
+    "displayName": "Pembroke, Ontario, CAN",
+    "lat": "45.81681",
+    "lng": "-77.11616",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Plympton-Wyoming it matches the snapshot 1`] = `Array []`;
+
+exports[`CitySuggest when searching for CA city Pohénégamook it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Port Moody, British Columbia, CAN",
+    "lat": "49.28297",
+    "lng": "-122.85263",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Port-Cartier it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Port-Cartier, Quebec, CAN",
+    "lat": "50.03339",
+    "lng": "-66.86545",
+  },
+  Object {
+    "displayName": "Mont-Laurier, Quebec, CAN",
+    "lat": "46.55011",
+    "lng": "-75.4993",
+  },
+  Object {
+    "displayName": "Port Alberni, British Columbia, CAN",
+    "lat": "49.24133",
+    "lng": "-124.8028",
+  },
+  Object {
+    "displayName": "La Pocatière, Quebec, CAN",
+    "lat": "47.36733",
+    "lng": "-70.03484",
+  },
+  Object {
+    "displayName": "Portage la Prairie, Manitoba, CAN",
+    "lat": "49.97282",
+    "lng": "-98.29263",
+  },
+  Object {
+    "displayName": "Fort Erie, Ontario, CAN",
+    "lat": "42.90012",
+    "lng": "-78.93286",
+  },
+  Object {
+    "displayName": "Port Colborne, Ontario, CAN",
+    "lat": "42.90012",
+    "lng": "-79.23288",
+  },
+  Object {
+    "displayName": "Sainte-Catherine, Quebec, CAN",
+    "lat": "45.40008",
+    "lng": "-73.58248",
+  },
+  Object {
+    "displayName": "Sainte-Catherine, Quebec, CAN",
+    "lat": "46.31836",
+    "lng": "-72.56632",
+  },
+  Object {
+    "displayName": "Saint-Polycarpe, Quebec, CAN",
+    "lat": "45.30009",
+    "lng": "-74.29924",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Prince Edward County it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Prince Edward, Ontario, CAN",
+    "lat": "44.00012",
+    "lng": "-77.24946",
+  },
+  Object {
+    "displayName": "Prince Albert, Saskatchewan, CAN",
+    "lat": "53.20008",
+    "lng": "-105.76772",
+  },
+  Object {
+    "displayName": "Prince Rupert, British Columbia, CAN",
+    "lat": "54.31507",
+    "lng": "-130.32098",
+  },
+  Object {
+    "displayName": "Pincher Creek, CAN",
+    "lat": "49.48328",
+    "lng": "-113.95195",
+  },
+  Object {
+    "displayName": "Prince George, British Columbia, CAN",
+    "lat": "53.9166",
+    "lng": "-122.75301",
+  },
+  Object {
+    "displayName": "Princeton, British Columbia, CAN",
+    "lat": "49.45802",
+    "lng": "-120.51076",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Prince George it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Saint-Georges, Quebec, CAN",
+    "lat": "46.11353",
+    "lng": "-70.66526",
+  },
+  Object {
+    "displayName": "Spruce Grove, CAN",
+    "lat": "53.53344",
+    "lng": "-113.91874",
+  },
+  Object {
+    "displayName": "Pont Rouge, Quebec, CAN",
+    "lat": "48.88332",
+    "lng": "-72.08247",
+  },
+  Object {
+    "displayName": "Rock Forest, Quebec, CAN",
+    "lat": "45.35699",
+    "lng": "-71.99676",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Quebec City it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Québec, Quebec, CAN",
+    "lat": "46.81228",
+    "lng": "-71.21454",
+  },
+  Object {
+    "displayName": "Dawson City, Yukon, CAN",
+    "lat": "64.06013",
+    "lng": "-139.43328",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Quinte West it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Quinte West, Ontario, CAN",
+    "lat": "44.18342",
+    "lng": "-77.56618",
+  },
+  Object {
+    "displayName": "Sainte Catherine de la Jacques Cartier, Quebec, CAN",
+    "lat": "46.85244",
+    "lng": "-71.62056",
+  },
+  Object {
+    "displayName": "Sainte-Sophie, Quebec, CAN",
+    "lat": "45.81678",
+    "lng": "-73.89919",
+  },
+  Object {
+    "displayName": "Sainte-Agathe-des-Monts, Quebec, CAN",
+    "lat": "46.05009",
+    "lng": "-74.28252",
+  },
+  Object {
+    "displayName": "Sainte-Béatrix, Quebec, CAN",
+    "lat": "46.20007",
+    "lng": "-73.61587",
+  },
+  Object {
+    "displayName": "Sainte-Marthe-sur-le-Lac, Quebec, CAN",
+    "lat": "45.53338",
+    "lng": "-73.9325",
+  },
+  Object {
+    "displayName": "Sainte-Martine, Quebec, CAN",
+    "lat": "45.25008",
+    "lng": "-73.79919",
+  },
+  Object {
+    "displayName": "White City, Saskatchewan, CAN",
+    "lat": "50.43338",
+    "lng": "-104.36778",
+  },
+  Object {
+    "displayName": "Sainte-Thècle, Quebec, CAN",
+    "lat": "46.81676",
+    "lng": "-72.49911",
+  },
+  Object {
+    "displayName": "Sainte-Thérèse, Quebec, CAN",
+    "lat": "45.63922",
+    "lng": "-73.82757",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Rimouski it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Rimouski, Quebec, CAN",
+    "lat": "48.44879",
+    "lng": "-68.52396",
+  },
+  Object {
+    "displayName": "Grimshaw, CAN",
+    "lat": "56.18339",
+    "lng": "-117.6027",
+  },
+  Object {
+    "displayName": "Dartmouth, Nova Scotia, CAN",
+    "lat": "44.67134",
+    "lng": "-63.57719",
+  },
+  Object {
+    "displayName": "Hérouxville, Quebec, CAN",
+    "lat": "46.66617",
+    "lng": "-72.62512",
+  },
+  Object {
+    "displayName": "Watrous, Saskatchewan, CAN",
+    "lat": "51.66677",
+    "lng": "-105.46788",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Rivière-Rouge it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Rivière-Rouge, Quebec, CAN",
+    "lat": "46.41679",
+    "lng": "-74.86596",
+  },
+  Object {
+    "displayName": "Rivière-du-Loup, Quebec, CAN",
+    "lat": "47.82699",
+    "lng": "-69.54243",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Rouyn-Noranda it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Rouyn-Noranda, Quebec, CAN",
+    "lat": "48.23656",
+    "lng": "-79.02311",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Saguenay it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Saguenay, Quebec, CAN",
+    "lat": "48.41675",
+    "lng": "-71.06573",
+  },
+  Object {
+    "displayName": "Pasadena, Newfoundland and Labrador, CAN",
+    "lat": "49.01671",
+    "lng": "-57.59837",
+  },
+  Object {
+    "displayName": "Dalmeny, Saskatchewan, CAN",
+    "lat": "52.33339",
+    "lng": "-106.76792",
+  },
+  Object {
+    "displayName": "Shaunavon, Saskatchewan, CAN",
+    "lat": "49.65005",
+    "lng": "-108.4181",
+  },
+  Object {
+    "displayName": "Wadena, Saskatchewan, CAN",
+    "lat": "51.94999",
+    "lng": "-103.80102",
+  },
+  Object {
+    "displayName": "Courtenay, British Columbia, CAN",
+    "lat": "49.68657",
+    "lng": "-124.9936",
+  },
+  Object {
+    "displayName": "Wasaga Beach, Ontario, CAN",
+    "lat": "44.5168",
+    "lng": "-80.01637",
+  },
+  Object {
+    "displayName": "Montague, Prince Edward Island, CAN",
+    "lat": "46.16681",
+    "lng": "-62.64866",
+  },
+  Object {
+    "displayName": "Châteauguay, Quebec, CAN",
+    "lat": "45.38338",
+    "lng": "-73.74919",
+  },
+  Object {
+    "displayName": "Montmagny, Quebec, CAN",
+    "lat": "46.98043",
+    "lng": "-70.55493",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Saint John it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Saint-Jean-sur-Richelieu, Quebec, CAN",
+    "lat": "45.30713",
+    "lng": "-73.26259",
+  },
+  Object {
+    "displayName": "Saint-Joseph-du-Lac, Quebec, CAN",
+    "lat": "45.53338",
+    "lng": "-73.9992",
+  },
+  Object {
+    "displayName": "Saint-Jacques, Quebec, CAN",
+    "lat": "45.95007",
+    "lng": "-73.56586",
+  },
+  Object {
+    "displayName": "Saint-Thomas, Quebec, CAN",
+    "lat": "46.01677",
+    "lng": "-73.34915",
+  },
+  Object {
+    "displayName": "Saint-Colomban, Quebec, CAN",
+    "lat": "45.73338",
+    "lng": "-74.13251",
+  },
+  Object {
+    "displayName": "Saint-Hippolyte, Quebec, CAN",
+    "lat": "45.93338",
+    "lng": "-74.0159",
+  },
+  Object {
+    "displayName": "Saint-Jacques-le-Mineur, Quebec, CAN",
+    "lat": "45.28338",
+    "lng": "-73.41587",
+  },
+  Object {
+    "displayName": "Saint-Jérôme, Quebec, CAN",
+    "lat": "45.78036",
+    "lng": "-74.00365",
+  },
+  Object {
+    "displayName": "Saint-Édouard, Quebec, CAN",
+    "lat": "45.23338",
+    "lng": "-73.51588",
+  },
+  Object {
+    "displayName": "Saint-Eustache, Quebec, CAN",
+    "lat": "45.565",
+    "lng": "-73.90554",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Saint-Félicien it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Saint-Félicien, Quebec, CAN",
+    "lat": "48.65007",
+    "lng": "-72.44906",
+  },
+  Object {
+    "displayName": "Saint-Hyacinthe, Quebec, CAN",
+    "lat": "45.63076",
+    "lng": "-72.95699",
+  },
+  Object {
+    "displayName": "Saint-Césaire, Quebec, CAN",
+    "lat": "45.41678",
+    "lng": "-72.99914",
+  },
+  Object {
+    "displayName": "Saint-Cyrille-de-Wendover, Quebec, CAN",
+    "lat": "45.93336",
+    "lng": "-72.43241",
+  },
+  Object {
+    "displayName": "Saint-Zotique, Quebec, CAN",
+    "lat": "45.25009",
+    "lng": "-74.24924",
+  },
+  Object {
+    "displayName": "Saint-Rémi, Quebec, CAN",
+    "lat": "45.26678",
+    "lng": "-73.61588",
+  },
+  Object {
+    "displayName": "Saint-Henri, Quebec, CAN",
+    "lat": "46.69314",
+    "lng": "-71.06927",
+  },
+  Object {
+    "displayName": "Saint-Pie, Quebec, CAN",
+    "lat": "45.50277",
+    "lng": "-72.9089",
+  },
+  Object {
+    "displayName": "Saint-Léonard, New Brunswick, CAN",
+    "lat": "47.16317",
+    "lng": "-67.9246",
+  },
+  Object {
+    "displayName": "Saint-Léonard, Quebec, CAN",
+    "lat": "45.58773",
+    "lng": "-73.59501",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Saint-Raymond it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Saint-Raymond, Quebec, CAN",
+    "lat": "45.46698",
+    "lng": "-73.60948",
+  },
+  Object {
+    "displayName": "Saint-Rémi-de-Tingwick, Quebec, CAN",
+    "lat": "45.86677",
+    "lng": "-71.81581",
+  },
+  Object {
+    "displayName": "Saint-Ambroise, Quebec, CAN",
+    "lat": "48.55009",
+    "lng": "-71.33238",
+  },
+  Object {
+    "displayName": "Saint-Bruno-de-Guigues, Quebec, CAN",
+    "lat": "47.46685",
+    "lng": "-79.43296",
+  },
+  Object {
+    "displayName": "Saint-Bruno-de-Montarville, Quebec, CAN",
+    "lat": "45.53341",
+    "lng": "-73.34916",
+  },
+  Object {
+    "displayName": "Saint-Siméon, Quebec, CAN",
+    "lat": "47.84431",
+    "lng": "-69.87837",
+  },
+  Object {
+    "displayName": "Saint-Constant, Quebec, CAN",
+    "lat": "45.36678",
+    "lng": "-73.56588",
+  },
+  Object {
+    "displayName": "Saint-Damase, Quebec, CAN",
+    "lat": "45.53341",
+    "lng": "-72.99914",
+  },
+  Object {
+    "displayName": "Saint-Adolphe-d'Howard, Quebec, CAN",
+    "lat": "45.96679",
+    "lng": "-74.33253",
+  },
+  Object {
+    "displayName": "Saint-Gédéon, Quebec, CAN",
+    "lat": "48.50009",
+    "lng": "-71.76581",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Sainte-Anne-des-Monts it matches the snapshot 1`] = `Array []`;
+
+exports[`CitySuggest when searching for CA city Senneterre it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Senneterre, Quebec, CAN",
+    "lat": "48.39302",
+    "lng": "-77.23951",
+  },
+  Object {
+    "displayName": "L'Ancienne-Lorette, Quebec, CAN",
+    "lat": "46.79392",
+    "lng": "-71.35191",
+  },
+  Object {
+    "displayName": "Terrebonne, Quebec, CAN",
+    "lat": "45.70004",
+    "lng": "-73.64732",
+  },
+  Object {
+    "displayName": "Chestermere, CAN",
+    "lat": "51.03341",
+    "lng": "-113.81867",
+  },
+  Object {
+    "displayName": "Bonaventure, Quebec, CAN",
+    "lat": "48.04573",
+    "lng": "-65.49259",
+  },
+  Object {
+    "displayName": "Mont-Tremblant, Quebec, CAN",
+    "lat": "46.21274",
+    "lng": "-74.58438",
+  },
+  Object {
+    "displayName": "Notre-Dame-de-Grâce, Quebec, CAN",
+    "lat": "45.47675",
+    "lng": "-73.61432",
+  },
+  Object {
+    "displayName": "Notre-Dame-de-l'Île-Perrot, Quebec, CAN",
+    "lat": "45.36678",
+    "lng": "-73.9325",
+  },
+  Object {
+    "displayName": "Notre-Dame-des-Prairies, Quebec, CAN",
+    "lat": "46.05007",
+    "lng": "-73.43245",
+  },
+  Object {
+    "displayName": "Peterborough, Ontario, CAN",
+    "lat": "44.30012",
+    "lng": "-78.31623",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Sept-Îles it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Sept-Îles, Quebec, CAN",
+    "lat": "50.20011",
+    "lng": "-66.38208",
+  },
+  Object {
+    "displayName": "Saint-Joseph-de-Beauce, Quebec, CAN",
+    "lat": "46.3",
+    "lng": "-70.86667",
+  },
+  Object {
+    "displayName": "Saint-Joseph-de-Coleraine, Quebec, CAN",
+    "lat": "45.96677",
+    "lng": "-71.36577",
+  },
+  Object {
+    "displayName": "Saint-Pierre-les-Becquets, Quebec, CAN",
+    "lat": "46.50005",
+    "lng": "-72.1991",
+  },
+  Object {
+    "displayName": "Stettler, CAN",
+    "lat": "52.31683",
+    "lng": "-112.71861",
+  },
+  Object {
+    "displayName": "Plessisville, Quebec, CAN",
+    "lat": "46.21856",
+    "lng": "-71.76201",
+  },
+  Object {
+    "displayName": "St-Jean-Port-Joli, Quebec, CAN",
+    "lat": "47.21418",
+    "lng": "-70.26969",
+  },
+  Object {
+    "displayName": "Castlegar, British Columbia, CAN",
+    "lat": "49.29984",
+    "lng": "-117.66894",
+  },
+  Object {
+    "displayName": "Bois-des-Filion, Quebec, CAN",
+    "lat": "45.66678",
+    "lng": "-73.74918",
+  },
+  Object {
+    "displayName": "Whistler, British Columbia, CAN",
+    "lat": "50.1164",
+    "lng": "-122.96946",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Shawinigan it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Shawinigan, Quebec, CAN",
+    "lat": "46.56675",
+    "lng": "-72.74913",
+  },
+  Object {
+    "displayName": "Lanigan, Saskatchewan, CAN",
+    "lat": "51.85006",
+    "lng": "-105.03443",
+  },
+  Object {
+    "displayName": "Saint-André-Avellin, Quebec, CAN",
+    "lat": "45.7168",
+    "lng": "-75.06599",
+  },
+  Object {
+    "displayName": "Saint Andrews, New Brunswick, CAN",
+    "lat": "45.0737",
+    "lng": "-67.05312",
+  },
+  Object {
+    "displayName": "Saint-Antonin, Quebec, CAN",
+    "lat": "47.7607",
+    "lng": "-69.47745",
+  },
+  Object {
+    "displayName": "Saint-Antoine-de-Tilly, Quebec, CAN",
+    "lat": "46.66346",
+    "lng": "-71.57335",
+  },
+  Object {
+    "displayName": "Sainte-Anne-des-Plaines, Quebec, CAN",
+    "lat": "45.76468",
+    "lng": "-73.81156",
+  },
+  Object {
+    "displayName": "Saint-Augustin, Quebec, CAN",
+    "lat": "51.22602",
+    "lng": "-58.65017",
+  },
+  Object {
+    "displayName": "Sainte-Anne-de-Bellevue, Quebec, CAN",
+    "lat": "45.40618",
+    "lng": "-73.9456",
+  },
+  Object {
+    "displayName": "Sainte-Anne-des-Monts, Quebec, CAN",
+    "lat": "49.12402",
+    "lng": "-66.49243",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Sherbrooke it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Sherbrooke, Quebec, CAN",
+    "lat": "45.40008",
+    "lng": "-71.89908",
+  },
+  Object {
+    "displayName": "Shellbrook, Saskatchewan, CAN",
+    "lat": "53.21679",
+    "lng": "-106.40109",
+  },
+  Object {
+    "displayName": "Sherwood Park, CAN",
+    "lat": "53.51684",
+    "lng": "-113.3187",
+  },
+  Object {
+    "displayName": "Brooks, CAN",
+    "lat": "50.58341",
+    "lng": "-111.88509",
+  },
+  Object {
+    "displayName": "Shelburne, Nova Scotia, CAN",
+    "lat": "43.76325",
+    "lng": "-65.32355",
+  },
+  Object {
+    "displayName": "Shelburne, Ontario, CAN",
+    "lat": "44.0787",
+    "lng": "-80.20408",
+  },
+  Object {
+    "displayName": "Binbrook, Ontario, CAN",
+    "lat": "43.12135",
+    "lng": "-79.81104",
+  },
+  Object {
+    "displayName": "Harbour Breton, Newfoundland and Labrador, CAN",
+    "lat": "47.48325",
+    "lng": "-55.79833",
+  },
+  Object {
+    "displayName": "Etobicoke, Ontario, CAN",
+    "lat": "43.65421",
+    "lng": "-79.56711",
+  },
+  Object {
+    "displayName": "Sparwood, British Columbia, CAN",
+    "lat": "49.73332",
+    "lng": "-114.88532",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Snow Lake it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Smoky Lake, CAN",
+    "lat": "54.11687",
+    "lng": "-112.46863",
+  },
+  Object {
+    "displayName": "Sylvan Lake, CAN",
+    "lat": "52.311",
+    "lng": "-114.08375",
+  },
+  Object {
+    "displayName": "Deer Lake, Newfoundland and Labrador, CAN",
+    "lat": "49.16671",
+    "lng": "-57.43163",
+  },
+  Object {
+    "displayName": "Cold Lake, CAN",
+    "lat": "54.46525",
+    "lng": "-110.18154",
+  },
+  Object {
+    "displayName": "Red Lake, Ontario, CAN",
+    "lat": "51.01678",
+    "lng": "-93.82736",
+  },
+  Object {
+    "displayName": "Slave Lake, CAN",
+    "lat": "55.28344",
+    "lng": "-114.76896",
+  },
+  Object {
+    "displayName": "Newmarket, Ontario, CAN",
+    "lat": "44.05011",
+    "lng": "-79.46631",
+  },
+  Object {
+    "displayName": "New Glasgow, Nova Scotia, CAN",
+    "lat": "45.58344",
+    "lng": "-62.64863",
+  },
+  Object {
+    "displayName": "Sooke, British Columbia, CAN",
+    "lat": "48.37463",
+    "lng": "-123.72762",
+  },
+  Object {
+    "displayName": "Wakefield, Quebec, CAN",
+    "lat": "45.6668",
+    "lng": "-75.83265",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city South Bruce Peninsula it matches the snapshot 1`] = `Array []`;
+
+exports[`CitySuggest when searching for CA city St. John's it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "St. John's, Newfoundland and Labrador, CAN",
+    "lat": "47.56494",
+    "lng": "-52.70931",
+  },
+  Object {
+    "displayName": "Fort St. John, British Columbia, CAN",
+    "lat": "56.24988",
+    "lng": "-120.85292",
+  },
+  Object {
+    "displayName": "Saint John, New Brunswick, CAN",
+    "lat": "45.27271",
+    "lng": "-66.06766",
+  },
+  Object {
+    "displayName": "St. Thomas, Ontario, CAN",
+    "lat": "42.77361",
+    "lng": "-81.18038",
+  },
+  Object {
+    "displayName": "Stonewall, Manitoba, CAN",
+    "lat": "50.13441",
+    "lng": "-97.32676",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Surrey it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Surrey, British Columbia, CAN",
+    "lat": "49.10635",
+    "lng": "-122.82509",
+  },
+  Object {
+    "displayName": "Swift Current, Saskatchewan, CAN",
+    "lat": "50.28337",
+    "lng": "-107.80135",
+  },
+  Object {
+    "displayName": "Sydney Mines, Nova Scotia, CAN",
+    "lat": "46.23669",
+    "lng": "-60.21767",
+  },
+  Object {
+    "displayName": "Summerland, British Columbia, CAN",
+    "lat": "49.59977",
+    "lng": "-119.66911",
+  },
+  Object {
+    "displayName": "Summerside, Prince Edward Island, CAN",
+    "lat": "46.39593",
+    "lng": "-63.78762",
+  },
+  Object {
+    "displayName": "Sundre, CAN",
+    "lat": "51.8001",
+    "lng": "-114.63532",
+  },
+  Object {
+    "displayName": "Burgeo, Newfoundland and Labrador, CAN",
+    "lat": "47.61668",
+    "lng": "-57.61516",
+  },
+  Object {
+    "displayName": "Sussex, New Brunswick, CAN",
+    "lat": "45.72266",
+    "lng": "-65.50663",
+  },
+  Object {
+    "displayName": "Sydney, Nova Scotia, CAN",
+    "lat": "46.1351",
+    "lng": "-60.1831",
+  },
+  Object {
+    "displayName": "Bourget, Ontario, CAN",
+    "lat": "45.4334",
+    "lng": "-75.1493",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city The Blue Mountains it matches the snapshot 1`] = `Array []`;
+
+exports[`CitySuggest when searching for CA city Thunder Bay it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Hudson Bay, Saskatchewan, CAN",
+    "lat": "52.85003",
+    "lng": "-102.38425",
+  },
+  Object {
+    "displayName": "North Bay, Ontario, CAN",
+    "lat": "46.3168",
+    "lng": "-79.46633",
+  },
+  Object {
+    "displayName": "Conception Bay South, Newfoundland and Labrador, CAN",
+    "lat": "47.49989",
+    "lng": "-52.99806",
+  },
+  Object {
+    "displayName": "The Pas, Manitoba, CAN",
+    "lat": "53.82509",
+    "lng": "-101.25413",
+  },
+  Object {
+    "displayName": "Torbay, Newfoundland and Labrador, CAN",
+    "lat": "47.66659",
+    "lng": "-52.73135",
+  },
+  Object {
+    "displayName": "Picture Butte, CAN",
+    "lat": "49.8833",
+    "lng": "-112.78516",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Timmins it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Timmins, Ontario, CAN",
+    "lat": "48.46686",
+    "lng": "-81.33312",
+  },
+  Object {
+    "displayName": "New Westminster, British Columbia, CAN",
+    "lat": "49.20678",
+    "lng": "-122.91092",
+  },
+  Object {
+    "displayName": "Temiskaming Shores, Ontario, CAN",
+    "lat": "47.49376",
+    "lng": "-79.71529",
+  },
+  Object {
+    "displayName": "Témiscaming, Quebec, CAN",
+    "lat": "46.72122",
+    "lng": "-79.09712",
+  },
+  Object {
+    "displayName": "Lloydminster, CAN",
+    "lat": "53.27237",
+    "lng": "-110.02256",
+  },
+  Object {
+    "displayName": "Les Escoumins, Quebec, CAN",
+    "lat": "48.35191",
+    "lng": "-69.40724",
+  },
+  Object {
+    "displayName": "Gimli, Manitoba, CAN",
+    "lat": "50.63362",
+    "lng": "-96.99066",
+  },
+  Object {
+    "displayName": "Viking, CAN",
+    "lat": "53.10014",
+    "lng": "-111.76844",
+  },
+  Object {
+    "displayName": "Innisfil, Ontario, CAN",
+    "lat": "44.30011",
+    "lng": "-79.64964",
+  },
+  Object {
+    "displayName": "Trois-Rivières, Quebec, CAN",
+    "lat": "46.34515",
+    "lng": "-72.5477",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Toronto it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Toronto, Ontario, CAN",
+    "lat": "43.70011",
+    "lng": "-79.4163",
+  },
+  Object {
+    "displayName": "Tofino, British Columbia, CAN",
+    "lat": "49.15314",
+    "lng": "-125.90744",
+  },
+  Object {
+    "displayName": "Yorkton, Saskatchewan, CAN",
+    "lat": "51.2167",
+    "lng": "-102.46766",
+  },
+  Object {
+    "displayName": "Oromocto, New Brunswick, CAN",
+    "lat": "45.83512",
+    "lng": "-66.47917",
+  },
+  Object {
+    "displayName": "Okotoks, CAN",
+    "lat": "50.72885",
+    "lng": "-113.98281",
+  },
+  Object {
+    "displayName": "Ormstown, Quebec, CAN",
+    "lat": "45.13338",
+    "lng": "-73.99922",
+  },
+  Object {
+    "displayName": "Bromont, Quebec, CAN",
+    "lat": "45.31678",
+    "lng": "-72.64912",
+  },
+  Object {
+    "displayName": "Armstrong, British Columbia, CAN",
+    "lat": "50.44979",
+    "lng": "-119.20235",
+  },
+  Object {
+    "displayName": "Saskatoon, Saskatchewan, CAN",
+    "lat": "52.13238",
+    "lng": "-106.66892",
+  },
+  Object {
+    "displayName": "Napanee Downtown, Ontario, CAN",
+    "lat": "44.24832",
+    "lng": "-76.95069",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Trois-Rivières it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Rosemère, Quebec, CAN",
+    "lat": "45.63338",
+    "lng": "-73.79919",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Témiscaming it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Kapuskasing, Ontario, CAN",
+    "lat": "49.41694",
+    "lng": "-82.43308",
+  },
+  Object {
+    "displayName": "Macamic, Quebec, CAN",
+    "lat": "48.75018",
+    "lng": "-78.99962",
+  },
+  Object {
+    "displayName": "Côte-Saint-Luc, Quebec, CAN",
+    "lat": "45.46536",
+    "lng": "-73.66585",
+  },
+  Object {
+    "displayName": "Mont-Saint-Grégoire, Quebec, CAN",
+    "lat": "45.33338",
+    "lng": "-73.16585",
+  },
+  Object {
+    "displayName": "Mont-Saint-Hilaire, Quebec, CAN",
+    "lat": "45.56515",
+    "lng": "-73.1868",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Val-d'Or it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Val-d'Or, Quebec, CAN",
+    "lat": "48.0974",
+    "lng": "-77.79737",
+  },
+  Object {
+    "displayName": "Val-Morin, Quebec, CAN",
+    "lat": "46.00008",
+    "lng": "-74.18251",
+  },
+  Object {
+    "displayName": "Val-des-Monts, Quebec, CAN",
+    "lat": "45.6501",
+    "lng": "-75.66604",
+  },
+  Object {
+    "displayName": "Val-David, Quebec, CAN",
+    "lat": "46.03338",
+    "lng": "-74.21592",
+  },
+  Object {
+    "displayName": "Vaudreuil-Dorion, Quebec, CAN",
+    "lat": "45.40008",
+    "lng": "-74.03251",
+  },
+  Object {
+    "displayName": "Valcourt, Quebec, CAN",
+    "lat": "45.50008",
+    "lng": "-72.31581",
+  },
+  Object {
+    "displayName": "Vanderhoof, British Columbia, CAN",
+    "lat": "54.01657",
+    "lng": "-124.01982",
+  },
+  Object {
+    "displayName": "Baie-D'Urfé, Quebec, CAN",
+    "lat": "45.41397",
+    "lng": "-73.91586",
+  },
+  Object {
+    "displayName": "Aldergrove, British Columbia, CAN",
+    "lat": "49.05801",
+    "lng": "-122.47087",
+  },
+  Object {
+    "displayName": "Lavaltrie, Quebec, CAN",
+    "lat": "45.88338",
+    "lng": "-73.28245",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Vaughan it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Vaughan, Ontario, CAN",
+    "lat": "43.8361",
+    "lng": "-79.49827",
+  },
+  Object {
+    "displayName": "Langham, Saskatchewan, CAN",
+    "lat": "52.3668",
+    "lng": "-106.96793",
+  },
+  Object {
+    "displayName": "Vulcan, CAN",
+    "lat": "50.40008",
+    "lng": "-113.25189",
+  },
+  Object {
+    "displayName": "Beauharnois, Quebec, CAN",
+    "lat": "45.31341",
+    "lng": "-73.8725",
+  },
+  Object {
+    "displayName": "Dunham, Quebec, CAN",
+    "lat": "45.13338",
+    "lng": "-72.79913",
+  },
+  Object {
+    "displayName": "Hanna, CAN",
+    "lat": "51.63343",
+    "lng": "-111.90181",
+  },
+  Object {
+    "displayName": "Cabano, Quebec, CAN",
+    "lat": "47.68065",
+    "lng": "-68.8781",
+  },
+  Object {
+    "displayName": "Wabana, Newfoundland and Labrador, CAN",
+    "lat": "47.63319",
+    "lng": "-52.94806",
+  },
+  Object {
+    "displayName": "Carignan, Quebec, CAN",
+    "lat": "45.45008",
+    "lng": "-73.29916",
+  },
+  Object {
+    "displayName": "Markham, Ontario, CAN",
+    "lat": "43.86682",
+    "lng": "-79.2663",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Whitehorse it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Whitehorse, Yukon, CAN",
+    "lat": "60.71611",
+    "lng": "-135.05375",
+  },
+  Object {
+    "displayName": "Whitecourt, CAN",
+    "lat": "54.15015",
+    "lng": "-115.68548",
+  },
+  Object {
+    "displayName": "White Rock, British Columbia, CAN",
+    "lat": "49.01636",
+    "lng": "-122.8026",
+  },
+  Object {
+    "displayName": "Smithers, British Columbia, CAN",
+    "lat": "54.78036",
+    "lng": "-127.17428",
+  },
+  Object {
+    "displayName": "Waterloo, Quebec, CAN",
+    "lat": "45.35008",
+    "lng": "-72.51582",
+  },
+  Object {
+    "displayName": "Hearst, Ontario, CAN",
+    "lat": "49.68351",
+    "lng": "-83.66654",
+  },
+  Object {
+    "displayName": "Thorold, Ontario, CAN",
+    "lat": "43.11682",
+    "lng": "-79.19958",
+  },
+  Object {
+    "displayName": "Thurso, Quebec, CAN",
+    "lat": "45.6001",
+    "lng": "-75.24931",
+  },
+  Object {
+    "displayName": "High Level, CAN",
+    "lat": "58.51688",
+    "lng": "-117.13605",
+  },
+  Object {
+    "displayName": "Waterloo, Ontario, CAN",
+    "lat": "43.4668",
+    "lng": "-80.51639",
+  },
+]
+`;
+
+exports[`CitySuggest when searching for CA city Winnipeg it matches the snapshot 1`] = `
+Array [
+  Object {
+    "displayName": "Winnipeg, Manitoba, CAN",
+    "lat": "49.8844",
+    "lng": "-97.14704",
+  },
+  Object {
+    "displayName": "Manning, CAN",
+    "lat": "56.91683",
+    "lng": "-117.61945",
+  },
+  Object {
+    "displayName": "Minnedosa, Manitoba, CAN",
+    "lat": "50.24532",
+    "lng": "-99.84364",
+  },
+  Object {
+    "displayName": "Wilkie, Saskatchewan, CAN",
+    "lat": "52.41683",
+    "lng": "-108.70142",
+  },
+  Object {
+    "displayName": "Wingham, Ontario, CAN",
+    "lat": "43.88793",
+    "lng": "-81.31145",
+  },
+  Object {
+    "displayName": "Winkler, Manitoba, CAN",
+    "lat": "49.1817",
+    "lng": "-97.94104",
+  },
+  Object {
+    "displayName": "Waswanipi, Quebec, CAN",
+    "lat": "49.73346",
+    "lng": "-76.16604",
+  },
+]
+`;
