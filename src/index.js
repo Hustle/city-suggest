@@ -33,7 +33,11 @@ class CitySuggest {
 
   suggest(str) {
     const res = this.client.search(str);
-    return res.slice(0,this.resultsLimit).map(res => delete res.name && res);
+    return res.slice(0,this.resultsLimit).map(({ displayName, lat, lng }) => ({
+      displayName,
+      lat,
+      lng
+    }));
   }
 };
 module.exports = CitySuggest;
