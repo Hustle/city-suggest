@@ -1,6 +1,6 @@
 {
   "name": "city-suggest",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Simple city search for geonames.org data dumps",
   "main": "src/index.js",
   "scripts": {
