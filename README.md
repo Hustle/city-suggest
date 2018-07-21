@@ -2,8 +2,12 @@
 Simple city search for [geonames.org](http://www.geonames.org/) data dumps
 
 ## Notes
-At the time of writing, only the country codes for the United States
-and Canada are supported. Data used in this lib is provided via the [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/) by [geonames.org](http://www.geonames.org/)
+At the time of writing, only the following country codes are supported:
+
+- US — 🇺🇸
+- CA — 🇨🇦
+
+Data used in this lib is provided via the [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/) by [geonames.org](http://www.geonames.org/)
 
 ## Basic Usage
 
