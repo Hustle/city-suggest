@@ -63,19 +63,19 @@ Array [
 exports[`CitySuggest when searching for US city Arlington it matches the snapshot 1`] = `
 Array [
   Object {
-    "displayName": "Arlington, Texas, USA",
-    "lat": "32.73569",
-    "lng": "-97.10807",
+    "displayName": "Arlington, Vermont, USA",
+    "lat": "43.0748",
+    "lng": "-73.154",
   },
   Object {
-    "displayName": "Arlington, New York, USA",
-    "lat": "41.69593",
-    "lng": "-73.8968",
+    "displayName": "Arlington, Minnesota, USA",
+    "lat": "44.6083",
+    "lng": "-94.08053",
   },
   Object {
-    "displayName": "Arlington, Washington, USA",
-    "lat": "48.19871",
-    "lng": "-122.12514",
+    "displayName": "Arlington, Georgia, USA",
+    "lat": "31.4399",
+    "lng": "-84.72492",
   },
 ]
 `;
@@ -88,9 +88,9 @@ Array [
     "lng": "-89.23342",
   },
   Object {
-    "displayName": "Atlanta, Georgia, USA",
-    "lat": "33.749",
-    "lng": "-84.38798",
+    "displayName": "Atlanta, Texas, USA",
+    "lat": "33.11374",
+    "lng": "-94.16435",
   },
   Object {
     "displayName": "Atlanta, Michigan, USA",
@@ -103,9 +103,9 @@ Array [
 exports[`CitySuggest when searching for US city Aurora it matches the snapshot 1`] = `
 Array [
   Object {
-    "displayName": "Aurora, Utah, USA",
-    "lat": "38.92219",
-    "lng": "-111.93409",
+    "displayName": "Aurora, Missouri, USA",
+    "lat": "36.97089",
+    "lng": "-93.71798",
   },
   Object {
     "displayName": "Aurora, Indiana, USA",
@@ -113,9 +113,9 @@ Array [
     "lng": "-84.90134",
   },
   Object {
-    "displayName": "Aurora, Illinois, USA",
-    "lat": "41.76058",
-    "lng": "-88.32007",
+    "displayName": "Aurora, Texas, USA",
+    "lat": "33.06068",
+    "lng": "-97.50336",
   },
 ]
 `;
@@ -123,19 +123,19 @@ Array [
 exports[`CitySuggest when searching for US city Austin it matches the snapshot 1`] = `
 Array [
   Object {
-    "displayName": "Austin, Texas, USA",
-    "lat": "30.26715",
-    "lng": "-97.74306",
-  },
-  Object {
     "displayName": "Austin, USA",
     "lat": "34.99842",
     "lng": "-91.98376",
   },
   Object {
-    "displayName": "Austin, Indiana, USA",
-    "lat": "38.75839",
-    "lng": "-85.80803",
+    "displayName": "Austin, Texas, USA",
+    "lat": "30.26715",
+    "lng": "-97.74306",
+  },
+  Object {
+    "displayName": "Austin, Minnesota, USA",
+    "lat": "43.66663",
+    "lng": "-92.97464",
   },
 ]
 `;
@@ -188,14 +188,14 @@ Array [
     "lng": "-91.15455",
   },
   Object {
-    "displayName": "Clifton Forge, Virginia, USA",
-    "lat": "37.81624",
-    "lng": "-79.82449",
-  },
-  Object {
     "displayName": "Lebanon South, Pennsylvania, USA",
     "lat": "40.32804",
     "lng": "-76.40644",
+  },
+  Object {
+    "displayName": "Clifton Forge, Virginia, USA",
+    "lat": "37.81624",
+    "lng": "-79.82449",
   },
 ]
 `;
@@ -223,9 +223,9 @@ Array [
 exports[`CitySuggest when searching for US city Boston it matches the snapshot 1`] = `
 Array [
   Object {
-    "displayName": "Boston, Massachusetts, USA",
-    "lat": "42.35843",
-    "lng": "-71.05977",
+    "displayName": "Boston, Georgia, USA",
+    "lat": "30.79186",
+    "lng": "-83.78989",
   },
   Object {
     "displayName": "Boston, New York, USA",
@@ -233,9 +233,9 @@ Array [
     "lng": "-78.73753",
   },
   Object {
-    "displayName": "Boston, Georgia, USA",
-    "lat": "30.79186",
-    "lng": "-83.78989",
+    "displayName": "Boston, Massachusetts, USA",
+    "lat": "42.35843",
+    "lng": "-71.05977",
   },
 ]
 `;
@@ -243,9 +243,9 @@ Array [
 exports[`CitySuggest when searching for US city Buffalo it matches the snapshot 1`] = `
 Array [
   Object {
-    "displayName": "Buffalo, Texas, USA",
-    "lat": "31.46379",
-    "lng": "-96.05802",
+    "displayName": "Buffalo, South Carolina, USA",
+    "lat": "34.72569",
+    "lng": "-81.68343",
   },
   Object {
     "displayName": "Buffalo, New York, USA",
@@ -348,9 +348,9 @@ Array [
     "lng": "-117.0842",
   },
   Object {
-    "displayName": "La Vista, Nebraska, USA",
-    "lat": "41.18389",
-    "lng": "-96.03113",
+    "displayName": "Bella Vista, USA",
+    "lat": "36.4807",
+    "lng": "-94.27134",
   },
   Object {
     "displayName": "Bella Vista, California, USA",
@@ -463,9 +463,9 @@ Array [
 exports[`CitySuggest when searching for US city Dallas it matches the snapshot 1`] = `
 Array [
   Object {
-    "displayName": "Dallas, Georgia, USA",
-    "lat": "33.92371",
-    "lng": "-84.84077",
+    "displayName": "Dallas, Pennsylvania, USA",
+    "lat": "41.33619",
+    "lng": "-75.96325",
   },
   Object {
     "displayName": "Dallas, North Carolina, USA",
@@ -473,9 +473,9 @@ Array [
     "lng": "-81.17619",
   },
   Object {
-    "displayName": "Dallas, Oregon, USA",
-    "lat": "44.91928",
-    "lng": "-123.31705",
+    "displayName": "Dallas, Georgia, USA",
+    "lat": "33.92371",
+    "lng": "-84.84077",
   },
 ]
 `;
@@ -528,14 +528,14 @@ Array [
     "lng": "-74.17236",
   },
   Object {
-    "displayName": "Durham, Oregon, USA",
-    "lat": "45.40206",
-    "lng": "-122.75287",
+    "displayName": "Durham, New Hampshire, USA",
+    "lat": "43.13397",
+    "lng": "-70.92645",
   },
   Object {
-    "displayName": "Durham, North Carolina, USA",
-    "lat": "35.99403",
-    "lng": "-78.89862",
+    "displayName": "Durham, California, USA",
+    "lat": "39.64627",
+    "lng": "-121.79998",
   },
 ]
 `;
@@ -543,19 +543,19 @@ Array [
 exports[`CitySuggest when searching for US city El Paso it matches the snapshot 1`] = `
 Array [
   Object {
-    "displayName": "El Paso, Texas, USA",
-    "lat": "31.75872",
-    "lng": "-106.48693",
-  },
-  Object {
     "displayName": "El Paso, Illinois, USA",
     "lat": "40.7392",
     "lng": "-89.01646",
   },
   Object {
-    "displayName": "El Sobrante, California, USA",
-    "lat": "37.97715",
-    "lng": "-122.29525",
+    "displayName": "El Paso, Texas, USA",
+    "lat": "31.75872",
+    "lng": "-106.48693",
+  },
+  Object {
+    "displayName": "El Lago, Texas, USA",
+    "lat": "29.56356",
+    "lng": "-95.04521",
   },
 ]
 `;
@@ -603,14 +603,14 @@ Array [
 exports[`CitySuggest when searching for US city Fremont it matches the snapshot 1`] = `
 Array [
   Object {
-    "displayName": "Fremont, Michigan, USA",
-    "lat": "43.46752",
-    "lng": "-85.942",
+    "displayName": "Fremont, California, USA",
+    "lat": "37.54827",
+    "lng": "-121.98857",
   },
   Object {
-    "displayName": "Fremont, Indiana, USA",
-    "lat": "41.73088",
-    "lng": "-84.93274",
+    "displayName": "Fremont, New Hampshire, USA",
+    "lat": "42.99092",
+    "lng": "-71.14256",
   },
   Object {
     "displayName": "Fremont, Nebraska, USA",
@@ -643,9 +643,9 @@ Array [
 exports[`CitySuggest when searching for US city Garland it matches the snapshot 1`] = `
 Array [
   Object {
-    "displayName": "Garland, Texas, USA",
-    "lat": "32.91262",
-    "lng": "-96.63888",
+    "displayName": "Garland, Maine, USA",
+    "lat": "45.0384",
+    "lng": "-69.16032",
   },
   Object {
     "displayName": "Garland, Utah, USA",
@@ -653,9 +653,9 @@ Array [
     "lng": "-112.16162",
   },
   Object {
-    "displayName": "Garland, Maine, USA",
-    "lat": "45.0384",
-    "lng": "-69.16032",
+    "displayName": "Garland, Texas, USA",
+    "lat": "32.91262",
+    "lng": "-96.63888",
   },
 ]
 `;
@@ -683,19 +683,19 @@ Array [
 exports[`CitySuggest when searching for US city Glendale it matches the snapshot 1`] = `
 Array [
   Object {
-    "displayName": "Glendale, Wisconsin, USA",
-    "lat": "43.13529",
-    "lng": "-87.93564",
+    "displayName": "Glendale, Mississippi, USA",
+    "lat": "31.36462",
+    "lng": "-89.30617",
   },
   Object {
-    "displayName": "Glendale, Arizona, USA",
-    "lat": "33.53865",
-    "lng": "-112.18599",
+    "displayName": "Glendale, Missouri, USA",
+    "lat": "38.59589",
+    "lng": "-90.37706",
   },
   Object {
-    "displayName": "Glendale, New York, USA",
-    "lat": "40.70149",
-    "lng": "-73.8868",
+    "displayName": "Glendale, West Virginia, USA",
+    "lat": "39.94924",
+    "lng": "-80.75425",
   },
 ]
 `;
@@ -723,19 +723,19 @@ Array [
 exports[`CitySuggest when searching for US city Henderson it matches the snapshot 1`] = `
 Array [
   Object {
-    "displayName": "Henderson, Texas, USA",
-    "lat": "32.15322",
-    "lng": "-94.79938",
-  },
-  Object {
     "displayName": "Henderson, North Carolina, USA",
     "lat": "36.32959",
     "lng": "-78.39916",
   },
   Object {
-    "displayName": "Henderson, Louisiana, USA",
-    "lat": "30.31325",
-    "lng": "-91.79039",
+    "displayName": "Henderson, Texas, USA",
+    "lat": "32.15322",
+    "lng": "-94.79938",
+  },
+  Object {
+    "displayName": "Henderson, Kentucky, USA",
+    "lat": "37.83615",
+    "lng": "-87.59001",
   },
 ]
 `;
@@ -783,19 +783,19 @@ Array [
 exports[`CitySuggest when searching for US city Houston it matches the snapshot 1`] = `
 Array [
   Object {
-    "displayName": "Houston, Missouri, USA",
-    "lat": "37.32616",
-    "lng": "-91.95599",
-  },
-  Object {
     "displayName": "Houston, Alaska, USA",
     "lat": "61.63028",
     "lng": "-149.81806",
   },
   Object {
-    "displayName": "Houston, Texas, USA",
-    "lat": "29.76328",
-    "lng": "-95.36327",
+    "displayName": "Houston, Missouri, USA",
+    "lat": "37.32616",
+    "lng": "-91.95599",
+  },
+  Object {
+    "displayName": "Houston, Pennsylvania, USA",
+    "lat": "40.24646",
+    "lng": "-80.21145",
   },
 ]
 `;
@@ -853,9 +853,9 @@ Array [
     "lng": "-74.23487",
   },
   Object {
-    "displayName": "Irving Park, Illinois, USA",
-    "lat": "41.95336",
-    "lng": "-87.73645",
+    "displayName": "Irvington, Kentucky, USA",
+    "lat": "37.88034",
+    "lng": "-86.28386",
   },
 ]
 `;
@@ -928,14 +928,14 @@ Array [
     "lng": "-99.50754",
   },
   Object {
-    "displayName": "Claremont, New Hampshire, USA",
-    "lat": "43.37674",
-    "lng": "-72.34676",
-  },
-  Object {
     "displayName": "Clarendon, USA",
     "lat": "34.69315",
     "lng": "-91.31374",
+  },
+  Object {
+    "displayName": "Claremont, New Hampshire, USA",
+    "lat": "43.37674",
+    "lng": "-72.34676",
   },
 ]
 `;
@@ -963,19 +963,19 @@ Array [
 exports[`CitySuggest when searching for US city Lexington it matches the snapshot 1`] = `
 Array [
   Object {
-    "displayName": "Lexington, Kentucky, USA",
-    "lat": "37.98869",
-    "lng": "-84.47772",
+    "displayName": "Lexington, Illinois, USA",
+    "lat": "40.64142",
+    "lng": "-88.7834",
   },
   Object {
-    "displayName": "Lexington, Massachusetts, USA",
-    "lat": "42.44732",
-    "lng": "-71.2245",
+    "displayName": "Lexington, Ohio, USA",
+    "lat": "40.67867",
+    "lng": "-82.58239",
   },
   Object {
-    "displayName": "Lexington, Tennessee, USA",
-    "lat": "35.6509",
-    "lng": "-88.39338",
+    "displayName": "Lexington, Texas, USA",
+    "lat": "30.4191",
+    "lng": "-97.01165",
   },
 ]
 `;
@@ -983,14 +983,14 @@ Array [
 exports[`CitySuggest when searching for US city Lincoln it matches the snapshot 1`] = `
 Array [
   Object {
-    "displayName": "Lincoln, Nebraska, USA",
-    "lat": "40.8",
-    "lng": "-96.66696",
+    "displayName": "Lincoln, Rhode Island, USA",
+    "lat": "41.92111",
+    "lng": "-71.435",
   },
   Object {
-    "displayName": "Lincoln, Vermont, USA",
-    "lat": "44.10589",
-    "lng": "-72.99706",
+    "displayName": "Lincoln, Idaho, USA",
+    "lat": "43.51297",
+    "lng": "-111.96441",
   },
   Object {
     "displayName": "Lincoln, Pennsylvania, USA",
@@ -1003,19 +1003,19 @@ Array [
 exports[`CitySuggest when searching for US city Long Beach it matches the snapshot 1`] = `
 Array [
   Object {
-    "displayName": "Long Beach, New York, USA",
-    "lat": "40.58844",
-    "lng": "-73.65791",
+    "displayName": "Long Beach, North Carolina, USA",
+    "lat": "33.91045",
+    "lng": "-78.11777",
   },
   Object {
-    "displayName": "Long Beach, Washington, USA",
-    "lat": "46.35232",
-    "lng": "-124.05432",
+    "displayName": "Long Beach, Mississippi, USA",
+    "lat": "30.35048",
+    "lng": "-89.15282",
   },
   Object {
-    "displayName": "Long Beach, California, USA",
-    "lat": "33.76696",
-    "lng": "-118.18923",
+    "displayName": "Long Beach, Indiana, USA",
+    "lat": "41.73893",
+    "lng": "-86.85697",
   },
 ]
 `;
@@ -1043,14 +1043,14 @@ Array [
 exports[`CitySuggest when searching for US city Louisville it matches the snapshot 1`] = `
 Array [
   Object {
-    "displayName": "Louisville, Colorado, USA",
-    "lat": "39.97776",
-    "lng": "-105.13193",
-  },
-  Object {
     "displayName": "Louisville, Georgia, USA",
     "lat": "33.00154",
     "lng": "-82.41124",
+  },
+  Object {
+    "displayName": "Louisville, Kentucky, USA",
+    "lat": "38.25424",
+    "lng": "-85.75941",
   },
   Object {
     "displayName": "Louisville, Mississippi, USA",
@@ -1083,19 +1083,19 @@ Array [
 exports[`CitySuggest when searching for US city Madison it matches the snapshot 1`] = `
 Array [
   Object {
+    "displayName": "Madison, New Jersey, USA",
+    "lat": "40.75982",
+    "lng": "-74.4171",
+  },
+  Object {
+    "displayName": "Madison, North Carolina, USA",
+    "lat": "36.38542",
+    "lng": "-79.95949",
+  },
+  Object {
     "displayName": "Madison, Florida, USA",
     "lat": "30.46938",
     "lng": "-83.41293",
-  },
-  Object {
-    "displayName": "Madison, Indiana, USA",
-    "lat": "38.73589",
-    "lng": "-85.37996",
-  },
-  Object {
-    "displayName": "Madison, New Hampshire, USA",
-    "lat": "43.89924",
-    "lng": "-71.1484",
   },
 ]
 `;
@@ -1103,9 +1103,9 @@ Array [
 exports[`CitySuggest when searching for US city Memphis it matches the snapshot 1`] = `
 Array [
   Object {
-    "displayName": "Memphis, Tennessee, USA",
-    "lat": "35.14953",
-    "lng": "-90.04898",
+    "displayName": "Memphis, Florida, USA",
+    "lat": "27.53587",
+    "lng": "-82.56121",
   },
   Object {
     "displayName": "Memphis, Missouri, USA",
@@ -1203,9 +1203,9 @@ Array [
 exports[`CitySuggest when searching for US city Nashville it matches the snapshot 1`] = `
 Array [
   Object {
-    "displayName": "Nashville, Indiana, USA",
-    "lat": "39.20727",
-    "lng": "-86.2511",
+    "displayName": "Nashville, Georgia, USA",
+    "lat": "31.20742",
+    "lng": "-83.25015",
   },
   Object {
     "displayName": "Nashville, USA",
@@ -1213,9 +1213,9 @@ Array [
     "lng": "-93.84713",
   },
   Object {
-    "displayName": "Nashville, Tennessee, USA",
-    "lat": "36.16589",
-    "lng": "-86.78444",
+    "displayName": "Nashville, Illinois, USA",
+    "lat": "38.34366",
+    "lng": "-89.38064",
   },
 ]
 `;
@@ -1228,9 +1228,9 @@ Array [
     "lng": "-90.07507",
   },
   Object {
-    "displayName": "Orleans, Massachusetts, USA",
-    "lat": "41.78983",
-    "lng": "-69.98974",
+    "displayName": "New Albany, Mississippi, USA",
+    "lat": "34.49427",
+    "lng": "-89.00784",
   },
   Object {
     "displayName": "New Athens, Illinois, USA",
@@ -1263,19 +1263,19 @@ Array [
 exports[`CitySuggest when searching for US city Newark it matches the snapshot 1`] = `
 Array [
   Object {
-    "displayName": "Newark, Ohio, USA",
-    "lat": "40.05812",
-    "lng": "-82.40126",
-  },
-  Object {
-    "displayName": "Newark, Delaware, USA",
-    "lat": "39.68372",
-    "lng": "-75.74966",
+    "displayName": "Newark, New Jersey, USA",
+    "lat": "40.73566",
+    "lng": "-74.17237",
   },
   Object {
     "displayName": "Newark, Illinois, USA",
     "lat": "41.53697",
     "lng": "-88.58341",
+  },
+  Object {
+    "displayName": "Newark, New York, USA",
+    "lat": "43.04673",
+    "lng": "-77.09525",
   },
 ]
 `;
@@ -1303,19 +1303,19 @@ Array [
 exports[`CitySuggest when searching for US city North Las Vegas it matches the snapshot 1`] = `
 Array [
   Object {
+    "displayName": "North Las Vegas, Nevada, USA",
+    "lat": "36.19886",
+    "lng": "-115.1175",
+  },
+  Object {
     "displayName": "North La Crosse, Wisconsin, USA",
     "lat": "43.84635",
     "lng": "-91.24819",
   },
   Object {
-    "displayName": "North Wales, Pennsylvania, USA",
-    "lat": "40.21094",
-    "lng": "-75.27823",
-  },
-  Object {
-    "displayName": "North Bay Village, Florida, USA",
-    "lat": "25.84621",
-    "lng": "-80.15394",
+    "displayName": "North Lakeport, California, USA",
+    "lat": "39.08831",
+    "lng": "-122.90538",
   },
 ]
 `;
@@ -1323,19 +1323,19 @@ Array [
 exports[`CitySuggest when searching for US city Oakland it matches the snapshot 1`] = `
 Array [
   Object {
-    "displayName": "Oakland, Missouri, USA",
-    "lat": "38.57644",
-    "lng": "-90.38567",
-  },
-  Object {
-    "displayName": "Oakland, Nebraska, USA",
-    "lat": "41.83583",
-    "lng": "-96.46697",
-  },
-  Object {
     "displayName": "Oakland, California, USA",
     "lat": "37.80437",
     "lng": "-122.2708",
+  },
+  Object {
+    "displayName": "Oakland, Maryland, USA",
+    "lat": "39.40787",
+    "lng": "-79.40671",
+  },
+  Object {
+    "displayName": "Oakland, Florida, USA",
+    "lat": "28.555",
+    "lng": "-81.63313",
   },
 ]
 `;
@@ -1373,9 +1373,9 @@ Array [
     "lng": "-89.72986",
   },
   Object {
-    "displayName": "Mahanoy City, Pennsylvania, USA",
-    "lat": "40.81259",
-    "lng": "-76.1416",
+    "displayName": "Maharishi Vedic City, Iowa, USA",
+    "lat": "41.05252",
+    "lng": "-91.9949",
   },
 ]
 `;
@@ -1388,14 +1388,14 @@ Array [
     "lng": "-81.37924",
   },
   Object {
-    "displayName": "Orland, California, USA",
-    "lat": "39.74738",
-    "lng": "-122.19637",
-  },
-  Object {
     "displayName": "Orland Hills, Illinois, USA",
     "lat": "41.58531",
     "lng": "-87.84311",
+  },
+  Object {
+    "displayName": "Orland, California, USA",
+    "lat": "39.74738",
+    "lng": "-122.19637",
   },
 ]
 `;
@@ -1483,19 +1483,19 @@ Array [
 exports[`CitySuggest when searching for US city Portland it matches the snapshot 1`] = `
 Array [
   Object {
+    "displayName": "Portland, Tennessee, USA",
+    "lat": "36.58171",
+    "lng": "-86.51638",
+  },
+  Object {
+    "displayName": "Portland, Connecticut, USA",
+    "lat": "41.57288",
+    "lng": "-72.64065",
+  },
+  Object {
     "displayName": "Portland, New York, USA",
     "lat": "42.37978",
     "lng": "-79.46755",
-  },
-  Object {
-    "displayName": "Portland, Maine, USA",
-    "lat": "43.66147",
-    "lng": "-70.25533",
-  },
-  Object {
-    "displayName": "Portland, Indiana, USA",
-    "lat": "40.43449",
-    "lng": "-84.97775",
   },
 ]
 `;
@@ -1528,9 +1528,9 @@ Array [
     "lng": "-119.8138",
   },
   Object {
-    "displayName": "Reno, Texas, USA",
-    "lat": "32.94429",
-    "lng": "-97.57725",
+    "displayName": "Reno, Ohio, USA",
+    "lat": "39.37285",
+    "lng": "-81.39567",
   },
   Object {
     "displayName": "Reno, Texas, USA",
@@ -1553,9 +1553,9 @@ Array [
     "lng": "-88.30593",
   },
   Object {
-    "displayName": "Richmond, Kentucky, USA",
-    "lat": "37.74786",
-    "lng": "-84.29465",
+    "displayName": "Richmond, Utah, USA",
+    "lat": "41.92271",
+    "lng": "-111.81356",
   },
 ]
 `;
@@ -1593,15 +1593,20 @@ Array [
     "lng": "-121.53023",
   },
   Object {
-    "displayName": "Scranton, Pennsylvania, USA",
-    "lat": "41.40916",
-    "lng": "-75.6649",
+    "displayName": "Cramerton, North Carolina, USA",
+    "lat": "35.23875",
+    "lng": "-81.07508",
   },
 ]
 `;
 
 exports[`CitySuggest when searching for US city Saint Paul it matches the snapshot 1`] = `
 Array [
+  Object {
+    "displayName": "Saint Paul, Minnesota, USA",
+    "lat": "44.94441",
+    "lng": "-93.09327",
+  },
   Object {
     "displayName": "Saint Paul, Texas, USA",
     "lat": "33.04123",
@@ -1611,11 +1616,6 @@ Array [
     "displayName": "Saint Paul, Nebraska, USA",
     "lat": "41.21473",
     "lng": "-98.45812",
-  },
-  Object {
-    "displayName": "Saint Paul, Minnesota, USA",
-    "lat": "44.94441",
-    "lng": "-93.09327",
   },
 ]
 `;
@@ -1653,9 +1653,9 @@ Array [
     "lng": "-118.43897",
   },
   Object {
-    "displayName": "San Benito, Texas, USA",
-    "lat": "26.13258",
-    "lng": "-97.6311",
+    "displayName": "San Marino, California, USA",
+    "lat": "34.1214",
+    "lng": "-118.10646",
   },
 ]
 `;
@@ -1693,9 +1693,9 @@ Array [
     "lng": "-122.40775",
   },
   Object {
-    "displayName": "Saint Francisville, Louisiana, USA",
-    "lat": "30.7799",
-    "lng": "-91.3765",
+    "displayName": "Saint Francis, Wisconsin, USA",
+    "lat": "42.96752",
+    "lng": "-87.87758",
   },
 ]
 `;
@@ -1713,9 +1713,9 @@ Array [
     "lng": "-117.90478",
   },
   Object {
-    "displayName": "Saint Joseph, Michigan, USA",
-    "lat": "42.10976",
-    "lng": "-86.48002",
+    "displayName": "San Joaquin Hills, California, USA",
+    "lat": "33.61169",
+    "lng": "-117.83672",
   },
 ]
 `;
@@ -1733,9 +1733,9 @@ Array [
     "lng": "-99.32173",
   },
   Object {
-    "displayName": "Santa Margarita, California, USA",
-    "lat": "35.38997",
-    "lng": "-120.60906",
+    "displayName": "Santa Claus, Indiana, USA",
+    "lat": "38.12005",
+    "lng": "-86.91416",
   },
 ]
 `;
@@ -1813,9 +1813,9 @@ Array [
     "lng": "-76.35413",
   },
   Object {
-    "displayName": "Petersburg, Michigan, USA",
-    "lat": "41.90116",
-    "lng": "-83.71494",
+    "displayName": "Petersburg, Alaska, USA",
+    "lat": "56.8125",
+    "lng": "-132.95556",
   },
 ]
 `;
@@ -1823,19 +1823,19 @@ Array [
 exports[`CitySuggest when searching for US city Stockton it matches the snapshot 1`] = `
 Array [
   Object {
-    "displayName": "Stockton, Kansas, USA",
-    "lat": "39.43807",
-    "lng": "-99.2651",
-  },
-  Object {
     "displayName": "Stockton, Missouri, USA",
     "lat": "37.69893",
     "lng": "-93.79604",
   },
   Object {
-    "displayName": "Stockton, California, USA",
-    "lat": "37.9577",
-    "lng": "-121.29078",
+    "displayName": "Stockton, Illinois, USA",
+    "lat": "42.34974",
+    "lng": "-90.00679",
+  },
+  Object {
+    "displayName": "Stockton, Kansas, USA",
+    "lat": "39.43807",
+    "lng": "-99.2651",
   },
 ]
 `;
@@ -1848,25 +1848,20 @@ Array [
     "lng": "-82.45843",
   },
   Object {
-    "displayName": "Pampa, Texas, USA",
-    "lat": "35.53616",
-    "lng": "-100.95987",
+    "displayName": "Tamalpais Valley, California, USA",
+    "lat": "37.87965",
+    "lng": "-122.54581",
   },
   Object {
-    "displayName": "Nampa, Idaho, USA",
-    "lat": "43.54072",
-    "lng": "-116.56346",
+    "displayName": "Tamarac, Florida, USA",
+    "lat": "26.21286",
+    "lng": "-80.24977",
   },
 ]
 `;
 
 exports[`CitySuggest when searching for US city Toledo it matches the snapshot 1`] = `
 Array [
-  Object {
-    "displayName": "Toledo, Iowa, USA",
-    "lat": "41.99555",
-    "lng": "-92.57686",
-  },
   Object {
     "displayName": "Toledo, Illinois, USA",
     "lat": "39.27365",
@@ -1876,6 +1871,11 @@ Array [
     "displayName": "Toledo, Oregon, USA",
     "lat": "44.62151",
     "lng": "-123.93845",
+  },
+  Object {
+    "displayName": "Toledo, Ohio, USA",
+    "lat": "41.66394",
+    "lng": "-83.55521",
   },
 ]
 `;
@@ -1928,14 +1928,14 @@ Array [
     "lng": "-75.97799",
   },
   Object {
+    "displayName": "Virginia Gardens, Florida, USA",
+    "lat": "25.81038",
+    "lng": "-80.30227",
+  },
+  Object {
     "displayName": "Virginia City, Montana, USA",
     "lat": "45.29381",
     "lng": "-111.94609",
-  },
-  Object {
-    "displayName": "Virginia City, Nevada, USA",
-    "lat": "39.30963",
-    "lng": "-119.64962",
   },
 ]
 `;
@@ -1943,19 +1943,19 @@ Array [
 exports[`CitySuggest when searching for US city Washington it matches the snapshot 1`] = `
 Array [
   Object {
+    "displayName": "Washington, Utah, USA",
+    "lat": "37.13054",
+    "lng": "-113.50829",
+  },
+  Object {
     "displayName": "Washington, Connecticut, USA",
     "lat": "41.63148",
     "lng": "-73.31067",
   },
   Object {
-    "displayName": "Washington, Vermont, USA",
-    "lat": "44.10562",
-    "lng": "-72.4326",
-  },
-  Object {
-    "displayName": "Washington, Pennsylvania, USA",
-    "lat": "40.17396",
-    "lng": "-80.24617",
+    "displayName": "Washington, Kansas, USA",
+    "lat": "39.81806",
+    "lng": "-97.05086",
   },
 ]
 `;

@@ -31,5 +31,4 @@ yarn install
 - [ ] Standardize build scripts
 - [ ] Support more country codes
 - [ ] Ingest from multiple sources
-- [ ] Faster tests
 - [ ] Code-coverage
